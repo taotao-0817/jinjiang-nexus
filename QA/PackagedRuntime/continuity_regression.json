@@ -1,0 +1,154 @@
+{
+	"pass": true,
+	"logical_parcels": 16,
+	"visible_parcels": 16,
+	"delivered_receivers": 0,
+	"elapsed_physical_seconds": 399.99999999991007,
+	"invariant_error": "",
+	"parcels": [
+		{
+			"id": 0,
+			"carrier": "amr",
+			"building": 1,
+			"floor": 2,
+			"x": -6767.5,
+			"y": -9600,
+			"z": 84
+		},
+		{
+			"id": 1,
+			"carrier": "amr",
+			"building": 2,
+			"floor": 3,
+			"x": -3770.5,
+			"y": -9600,
+			"z": 84
+		},
+		{
+			"id": 2,
+			"carrier": "amr",
+			"building": 3,
+			"floor": 4,
+			"x": 1500,
+			"y": -8400,
+			"z": 491.5
+		},
+		{
+			"id": 3,
+			"carrier": "amr",
+			"building": 4,
+			"floor": 2,
+			"x": 12189.485526085507,
+			"y": -8400.6051447391528,
+			"z": 434
+		},
+		{
+			"id": 4,
+			"carrier": "amr",
+			"building": 5,
+			"floor": 3,
+			"x": -6439,
+			"y": 1900,
+			"z": 84
+		},
+		{
+			"id": 5,
+			"carrier": "amr",
+			"building": 6,
+			"floor": 4,
+			"x": -3482.5,
+			"y": 1900,
+			"z": 84
+		},
+		{
+			"id": 6,
+			"carrier": "amr",
+			"building": 7,
+			"floor": 2,
+			"x": 1500,
+			"y": 3100,
+			"z": 306.5
+		},
+		{
+			"id": 7,
+			"carrier": "amr",
+			"building": 8,
+			"floor": 3,
+			"x": 11900,
+			"y": 3096.5,
+			"z": 784
+		},
+		{
+			"id": 8,
+			"carrier": "conveyor",
+			"building": 1,
+			"floor": 2,
+			"x": 10800,
+			"y": 12100,
+			"z": 84
+		},
+		{
+			"id": 9,
+			"carrier": "conveyor",
+			"building": 2,
+			"floor": 3,
+			"x": 10715,
+			"y": 12100,
+			"z": 84
+		},
+		{
+			"id": 10,
+			"carrier": "conveyor",
+			"building": 3,
+			"floor": 4,
+			"x": 10628,
+			"y": 12100,
+			"z": 84
+		},
+		{
+			"id": 11,
+			"carrier": "conveyor",
+			"building": 4,
+			"floor": 2,
+			"x": 10541,
+			"y": 12100,
+			"z": 84
+		},
+		{
+			"id": 12,
+			"carrier": "conveyor",
+			"building": 5,
+			"floor": 3,
+			"x": 10454,
+			"y": 12100,
+			"z": 84
+		},
+		{
+			"id": 13,
+			"carrier": "unload_gripper",
+			"building": 6,
+			"floor": 4,
+			"x": 10400,
+			"y": 12100,
+			"z": 328
+		},
+		{
+			"id": 14,
+			"carrier": "truck",
+			"building": 7,
+			"floor": 2,
+			"x": 10650,
+			"y": 11245,
+			"z": 148
+		},
+		{
+			"id": 15,
+			"carrier": "truck",
+			"building": 8,
+			"floor": 3,
+			"x": 10750,
+			"y": 11245,
+			"z": 148
+		}
+	]
+}

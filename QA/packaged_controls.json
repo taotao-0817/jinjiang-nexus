@@ -1,0 +1,480 @@
+{
+  "passed": true,
+  "packaged_executable": "D:\\虚幻移植版\\Builds\\Releases\\JinjiangNexus-Windows\\Windows\\EmberTown\\Binaries\\Win64\\EmberTown.exe",
+  "building_parity": 20,
+  "staff": 240,
+  "zones": 1214,
+  "infrastructure": 13,
+  "iot_devices": 33181,
+  "visitor_gate_receipt": true,
+  "floor_sensors": 27,
+  "vehicles": 24,
+  "drones": 6,
+  "network_nodes": 6,
+  "actual_drone_dispatch": "running with movement",
+  "controls": [
+    {
+      "target": "B20",
+      "on": false,
+      "zones": 9,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "B20",
+      "on": true,
+      "zones": 9,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "CANTEEN",
+      "on": false,
+      "zones": 8,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "CANTEEN",
+      "on": true,
+      "zones": 8,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "GARAGE-B1",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "GARAGE-B1",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "AIR-HUB",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "AIR-HUB",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-CIRCLE",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-CIRCLE",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-COURT",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-COURT",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-MARKET",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PAV-MARKET",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PARK-W",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "PARK-W",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "GATE-VISITOR",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "GATE-VISITOR",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "DATA-CENTER",
+      "enabled": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "DATA-CENTER",
+      "enabled": true,
+      "receipt": "succeeded"
+    },
+    {
+      "scenario": "lunch",
+      "speed": 0.5,
+      "receipt": "succeeded"
+    },
+    {
+      "scenario": "evening",
+      "speed": 0.25,
+      "receipt": "succeeded"
+    },
+    {
+      "scenario": "work",
+      "speed": 1,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "COMMS-N",
+      "overlay": false,
+      "receipt": "succeeded"
+    },
+    {
+      "target": "COMMS-N",
+      "overlay": true,
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-000005",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-000005",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022692",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022692",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-000009",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-000009",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022705",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022705",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022704",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022704",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022332",
+      "params": {
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.set",
+      "target": "IOT-022332",
+      "params": {
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.batch",
+      "target": null,
+      "params": {
+        "ids": [
+          "IOT-001501",
+          "IOT-001506",
+          "IOT-001511",
+          "IOT-001516",
+          "IOT-001521",
+          "IOT-001526",
+          "IOT-001531",
+          "IOT-001536",
+          "IOT-001541",
+          "IOT-001546",
+          "IOT-001551",
+          "IOT-001556",
+          "IOT-001561",
+          "IOT-001566",
+          "IOT-001571",
+          "IOT-001576",
+          "IOT-001581",
+          "IOT-001586",
+          "IOT-001591",
+          "IOT-001596",
+          "IOT-001601",
+          "IOT-001606",
+          "IOT-001611",
+          "IOT-001616",
+          "IOT-001621",
+          "IOT-001626",
+          "IOT-001631",
+          "IOT-001636",
+          "IOT-001641",
+          "IOT-001646",
+          "IOT-001651"
+        ],
+        "power": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "iot.batch",
+      "target": null,
+      "params": {
+        "ids": [
+          "IOT-001501",
+          "IOT-001506",
+          "IOT-001511",
+          "IOT-001516",
+          "IOT-001521",
+          "IOT-001526",
+          "IOT-001531",
+          "IOT-001536",
+          "IOT-001541",
+          "IOT-001546",
+          "IOT-001551",
+          "IOT-001556",
+          "IOT-001561",
+          "IOT-001566",
+          "IOT-001571",
+          "IOT-001576",
+          "IOT-001581",
+          "IOT-001586",
+          "IOT-001591",
+          "IOT-001596",
+          "IOT-001601",
+          "IOT-001606",
+          "IOT-001611",
+          "IOT-001616",
+          "IOT-001621",
+          "IOT-001626",
+          "IOT-001631",
+          "IOT-001636",
+          "IOT-001641",
+          "IOT-001646",
+          "IOT-001651"
+        ],
+        "power": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "lighting.batch",
+      "target": null,
+      "params": {
+        "ids": [
+          "LIGHT-B02-F02-Z00",
+          "LIGHT-B02-F02-Z01",
+          "LIGHT-B02-F02-Z02",
+          "LIGHT-B02-F02-Z03",
+          "LIGHT-B02-F02-Z04",
+          "LIGHT-B02-F02-Z05",
+          "LIGHT-B02-F02-Z06",
+          "LIGHT-B02-F02-Z07",
+          "LIGHT-B02-F02-Z08"
+        ],
+        "on": true,
+        "brightness": 60
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "lighting.batch",
+      "target": null,
+      "params": {
+        "ids": [
+          "LIGHT-B02-F02-Z00",
+          "LIGHT-B02-F02-Z01",
+          "LIGHT-B02-F02-Z02",
+          "LIGHT-B02-F02-Z03",
+          "LIGHT-B02-F02-Z04",
+          "LIGHT-B02-F02-Z05",
+          "LIGHT-B02-F02-Z06",
+          "LIGHT-B02-F02-Z07",
+          "LIGHT-B02-F02-Z08"
+        ],
+        "on": true,
+        "brightness": 100
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "staff.dispatch",
+      "target": "STAFF-000",
+      "params": {
+        "stage": 2
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "staff.notify",
+      "target": "STAFF-000",
+      "params": {
+        "message": "现场联调：请按日程前往食堂"
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "staff.dispatch",
+      "target": "STAFF-000",
+      "params": {
+        "stage": 1
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "energy.configure",
+      "target": "campus",
+      "params": {
+        "enabled": true,
+        "idleSeconds": 10,
+        "dimPercent": 20
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "lighting.set",
+      "target": "LIGHT-B20-F01-Z01",
+      "params": {
+        "on": true,
+        "brightness": 75
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "energy.configure",
+      "target": "campus",
+      "params": {
+        "enabled": false,
+        "idleSeconds": 60,
+        "dimPercent": 20
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "fire.source",
+      "target": "LIGHT-B01-F01-Z01",
+      "params": {
+        "active": true
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "fire.source",
+      "target": "LIGHT-B01-F01-Z01",
+      "params": {
+        "active": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "type": "fire.set",
+      "target": "campus",
+      "params": {
+        "active": false
+      },
+      "receipt": "succeeded"
+    },
+    {
+      "automation": "room_detection_vacancy_dimming_manual_override_and_reset",
+      "passed": true
+    },
+    {
+      "type": "delivery.transfer",
+      "parcel": "PARCEL-08",
+      "floor": 5,
+      "stages": [
+        "collecting",
+        "completed",
+        "delivering",
+        "pickup_retract"
+      ],
+      "receipt": "succeeded",
+      "headless_logistics_replay_speed": 10
+    },
+    {
+      "type": "delivery.transfer",
+      "parcel": "PARCEL-08",
+      "floor": 1,
+      "stages": [
+        "collecting",
+        "completed",
+        "delivering",
+        "pickup_retract",
+        "queued"
+      ],
+      "receipt": "succeeded",
+      "headless_logistics_replay_speed": 10
+    },
+    {
+      "type": "gate.set",
+      "target": "GATE-MAIN",
+      "params": {
+        "open": false
+      },
+      "receipt": "succeeded"
+    }
+  ]
+}

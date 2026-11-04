@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "provider": "deepseek",
+  "model": "deepseek-flash",
+  "protocol": "chat_completions",
+  "thinking": {"type":"disabled"},
+  "test": "Synthetic B01 patrol intent; no physical command executed",
+  "latencyMs": 1236,
+  "credentialLocation": "Current user private configuration outside workspace",
+  "documentation": ["https://api-docs.deepseek.com/guides/thinking_mode/", "https://api-docs.deepseek.com/api/create-chat-completion/"]
+}

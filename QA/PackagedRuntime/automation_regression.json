@@ -1,0 +1,4 @@
+{
+	"passed": true,
+	"checks": "vacancy dimming, occupied restore, localized smoke/heat detection, latched alarm, safe reset"
+}

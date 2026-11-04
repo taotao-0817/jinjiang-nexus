@@ -1,0 +1,8 @@
+{
+  "mode": "model",
+  "provider": "deepseek",
+  "baseUrl": "https://api.deepseek.com",
+  "model": "deepseek-flash",
+  "protocol": "chat_completions",
+  "apiKeyFile": "direct-deepseek.key"
+}

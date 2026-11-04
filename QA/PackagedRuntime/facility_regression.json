@@ -1,0 +1,13 @@
+{
+	"passed": true,
+	"rooms": 1214,
+	"expected_rooms": 1214,
+	"actual_switch_ray_hits": 1214,
+	"switch_interactions": 4856,
+	"physical_light_fixtures": 6638,
+	"point_lights_in_camera_range": 53,
+	"street_lights": 169,
+	"opaque_window_light_boards": false,
+	"stable_components": true,
+	"first_failure": ""
+}

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "buildings": 20,
+  "mesh_sources": 45,
+  "actual_instances": 293162,
+  "telemetry_source": "recorded_actual_ue_snapshot",
+  "web_errors": []
+}

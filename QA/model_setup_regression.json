@@ -1,0 +1,13 @@
+{
+  "real_api_reply_verified": true,
+  "passed": true,
+  "status_configured": true,
+  "key_printed": false,
+  "setup_module_sha256": "00732DA6F623D783540E0777F3CB4414CA61EACE52DE8BD99D648E589B259DEB",
+  "package": "JinjiangNexus-Windows-DirectApi",
+  "model": "deepseek-flash",
+  "protocol": "chat_completions",
+  "tested_at": "2026-11-01T13:04:28.9590394+08:00",
+  "launcher_sha256": "A6242C3F0567DD9A649A19AB37913C5011D8D577C1F52B3871FBB8110BDE0CDF",
+  "thinking": "disabled"
+}

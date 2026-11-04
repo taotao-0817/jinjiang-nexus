@@ -1,0 +1,7 @@
+{
+  "asset": "/Game/SuperPark/Materials/M_NetworkFlow",
+  "blend": "translucent",
+  "link_opacity": 0.35,
+  "packet_opacity": 0.6,
+  "depth_test": true
+}

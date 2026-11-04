@@ -1,0 +1,15 @@
+{
+	"passed": true,
+	"all_worked": true,
+	"all_ate": true,
+	"all_returned_to_work": true,
+	"all_left_gate": true,
+	"all_commuted_back": true,
+	"continuous_positions": true,
+	"lift_door_interlock": true,
+	"employees": 240,
+	"simulated_seconds": 5894.9000000000005,
+	"actual_geometry_sweep_hits": 0,
+	"actual_desk_bounds_hits": 0,
+	"first_geometry_hit": ""
+}

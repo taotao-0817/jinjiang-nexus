@@ -1,0 +1,8 @@
+{
+	"passed": true,
+	"devices": 33181,
+	"sampled_controls": 243,
+	"physical_material_checks": 84,
+	"data_center_clear_walk_segments": 3,
+	"first_failure": ""
+}

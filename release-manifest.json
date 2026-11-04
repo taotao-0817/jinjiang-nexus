@@ -1,0 +1,2595 @@
+{
+  "product": "JINJIANG NEXUS",
+  "platform": "Windows x64",
+  "built_utc": "2026-11-01T05:02:03.1193081Z",
+  "files": [
+    {
+      "file": "配置DeepSeek.exe",
+      "bytes": 15872,
+      "sha256": "A6242C3F0567DD9A649A19AB37913C5011D8D577C1F52B3871FBB8110BDE0CDF"
+    },
+    {
+      "file": "JinjiangNexus.exe",
+      "bytes": 15872,
+      "sha256": "A6242C3F0567DD9A649A19AB37913C5011D8D577C1F52B3871FBB8110BDE0CDF"
+    },
+    {
+      "file": "Prerequisites\\vc_redist.x64.exe",
+      "bytes": 18731856,
+      "sha256": "843068991DAAA1F73AD9F6239BCE4D0F6A07A51F18C37EA2A867E9BECA71295C"
+    },
+    {
+      "file": "Runtime\\node.exe",
+      "bytes": 91380224,
+      "sha256": "63C259C81E5D472B5F11C8D506070130CB04A1ECF84B80377A34ED6EC9048088"
+    },
+    {
+      "file": "Windows\\EmberTown.exe",
+      "bytes": 164864,
+      "sha256": "238E183F5EFAF2C39AAE6D8455443B19B0FAAFD3F4D962703DFDCDC5D67C4F84"
+    },
+    {
+      "file": "Windows\\EmberTown\\Binaries\\Win64\\EmberTown.exe",
+      "bytes": 256601600,
+      "sha256": "90B27E2A4A6043D6258967F138B34B530457E62D79FEAE79686B223D9082C04B"
+    },
+    {
+      "file": "Windows\\EmberTown\\Content\\Paks\\EmberTown-Windows.pak",
+      "bytes": 103186870,
+      "sha256": "F87DBF421A67A743C8827E99B47E8338BAC350E32DF412E0233CA7D2F20D1B39"
+    },
+    {
+      "file": "Windows\\EmberTown\\Content\\Paks\\EmberTown-Windows.ucas",
+      "bytes": 1019214512,
+      "sha256": "0F173833F02EA626D534AB7BFAF9648EA917E723AAFF3B889E3ADB591FC865AE"
+    },
+    {
+      "file": "Windows\\EmberTown\\Content\\Paks\\EmberTown-Windows.utoc",
+      "bytes": 1577455,
+      "sha256": "2D553CBC360EF3B2D719886DF76E19BBBEC608BCB0E8EA055A67B0AFD1995457"
+    },
+    {
+      "file": "Windows\\EmberTown\\Content\\Paks\\global.ucas",
+      "bytes": 2246992,
+      "sha256": "2F1CC19D157FE43BA3D2467CE279200BD8F84261300574C8CA9B837E7913A9C2"
+    },
+    {
+      "file": "Windows\\EmberTown\\Content\\Paks\\global.utoc",
+      "bytes": 614,
+      "sha256": "22315D023CC32CDD1E2ECD9EAD7CFE4B96EBDD4CBD830F1863285B74668F5AD9"
+    }
+  ],
+  "source_inputs": [
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown.Target.cs",
+      "sha256": "5AFAE500728BAE65FB334B3C7C2D4E2DED01E447E252365635F8CA51498C54C5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTownEditor.Target.cs",
+      "sha256": "0AAB9F58B11AE18D882794941C607B9F571A4949F6B90ABFDF50798AF68721D1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberArchitectureRuntime.cpp",
+      "sha256": "A1791187BD0307E657CDCF74118554EF1571BBAA645C5A0BDD98C3B19118924A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberArchitectureRuntime.h",
+      "sha256": "6AB8663E5B626447C6BE0EE0F784B6A8FD8BB5318E9C5B6E742243B35BA176E6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberAtmosphereRenderedTests.cpp",
+      "sha256": "6BE021BF995EBFC5716BB719BB556E9D58EA65979C621A5F67F006B42F9DEFF9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberAtmosphereTests.cpp",
+      "sha256": "77FFFB92A0FAC063EB2CE9DDDBD62BFC117BBA0273C28D11DE7D869193BE7604"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberAudioSubsystem.cpp",
+      "sha256": "C53F7974E1C4C44B83A2085CD6CC8968C9581CCF491BE1D6C9F00BAFEF040201"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberAudioSubsystem.h",
+      "sha256": "E7D0AB69BD1DE4FE6CB90F8F46C4636F41BC988F1DCF9802AD24B341CF30CE48"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberBuildingActor.cpp",
+      "sha256": "98090B8A584265DFD20539DB33370E324E5CBD5E96190001FB9FC97FD86A29FE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberBuildingActor.h",
+      "sha256": "C3F480307FF221362B15E57BCE4DC646F7D3BC32A695E4B8AB150AFCDEE74FCA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberBuildingSourceCollisionTests.cpp",
+      "sha256": "6895B487D3CD4B8683E3F35C2CA30DFE4635159A078060F7412E99D98BF3CD48"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberBuildingStairCollisionTests.cpp",
+      "sha256": "FDE943B060CDE13CF434B37BAA391EA04638DB81E7B58A0B722CA8D61F0AFF0F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCameraSettingsTests.cpp",
+      "sha256": "84214516D0BDDF95F1430BE33F13B45B3DEFDF6BDF325E8C210B75B1B9938AB4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampfireTargetTests.cpp",
+      "sha256": "91D297BF351D09756B10A26F3C9B4C5B3CD43148137DA1E55092ABF6267AB346"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusAir.cpp",
+      "sha256": "94325904B224E435A49D7E36958DBB4F4C3D1BD7D57100131220A75F55D03EE7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusAir.h",
+      "sha256": "3AE7D794E17C916D3FEE68461FF7D590B908BECE843A7B112136759A706C68ED"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusAutomation.cpp",
+      "sha256": "476A86658EF511E53E5EFA03A0BD59D2334655EE08494C0A77507B7BBC0E172F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusAutomation.h",
+      "sha256": "0BA0AAC5531C878565406CCB99A695A7E5047FAA17DE94C29865A783E1C00F8B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusControls.cpp",
+      "sha256": "F0181BD635D1B1CD107A6E1C2978D0520DDBFFA8A2726BC72D07F2D630D3CB95"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusDataCenter.cpp",
+      "sha256": "8EB1B4492426AF06B1EBDA8B386359B2307BB517184AB566AC52F7C8DD972328"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusDelivery.h",
+      "sha256": "5BDB4C4FDEF9B6906D73680F2A9B10206A02F96E43BA563E207505B00CE77AC7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusFacades.cpp",
+      "sha256": "6C20D22AFE2BB85459B6CD4325F4DCEE298530B60038EDD6E6877E860F1D5949"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusFilm.cpp",
+      "sha256": "C8E6E43689B1E3DC0F38563838671F877A252094EFB2B11A18A83B0D07FED007"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusGateway.cpp",
+      "sha256": "6112404CCBB5858CCE4E76A070A56312B711E3AC78120913BD5616000774C40C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusHub.cpp",
+      "sha256": "5DF3B57A1D3F8A60460280D6AFF056628B52F697CFD34DFCA3BE7D0EF7C9C9F5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusHub.h",
+      "sha256": "C733B0454F2341B26BDE8BAAAB276498DAC8747B51115325BC4F7BA6086F357F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusInfrastructure.cpp",
+      "sha256": "8DDAC350493CAB71395D3C0CB641F245FD216B4CB9F427AED9591A8E00261CBE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusInteriors.cpp",
+      "sha256": "85128E066A545BD67B39CA6BD1520CF688CF947CC1093F1D0EC90F6624FA18CB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusIoT.cpp",
+      "sha256": "62EAB0F68C7513FFEF63CA5820D8B1CEE81681CFB7F6CF3652E619FBE85E4836"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusLogistics.cpp",
+      "sha256": "8F407D2635ECF05C47D676295BEE8562D400994D761B12CA11B70C03120FEC0C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusLogistics.h",
+      "sha256": "039608370D52813678469CA353FF7FBEAD07E2456FFB574BC7C537FA861FA969"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusMobility.cpp",
+      "sha256": "933F959F71C4E105D0808FF3CB59640B7E1AECEE961B447712AF21BA58739F34"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusMobility.h",
+      "sha256": "6ECB0C3871A62056F9267C56F77F1AF05E782174B1151DD96B876FDEE27FF121"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusNetwork.cpp",
+      "sha256": "A0AF2242403762F97BB0675F2D45BFD645D21A746245293831D1CBFCAA3FC8F8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusNetwork.h",
+      "sha256": "9C2D578C163D0B7D468128CDCE4BC16B62B8CA68F718403CB8F6C623FFB2FAC7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusPeople.cpp",
+      "sha256": "386318DEB991D30F54A880D6F35E0BC8FCD8FDEAE74C21D9CA8D7131F234F969"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusPeople.h",
+      "sha256": "302AC880FBC0BDD42513D3DF93BBF832FE7C3CB9D3AC4E59350AD7C997253896"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusPlan.h",
+      "sha256": "9C5CF765AF736FDCB91681480A9CE3CAC59326232FA57E064E18B63E6EF3DCDD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusPoseProbe.cpp",
+      "sha256": "2CD3DF16E0DFBFB08C2C29D5D847AB46E59FE886144CA9EFDD64C812818E83B6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusPublicRealm.cpp",
+      "sha256": "CAD2DDFBAA972AAC4859F4CA6C2C37FF5802F1845CDA9582B9B5591F7D77FCBD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusSite.cpp",
+      "sha256": "5DD5DBAC14EE6402A69A0D376FAEF0017D3E5A65A0040962F5520131BB574C16"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusSite.h",
+      "sha256": "5094DE353FA787AAD10CE439C1A32462EA6509A937B2D635082DC18EE671D008"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusStaffMesh.cpp",
+      "sha256": "1E3806E53EEC1A825D8E06F041EA9CAEE65F1B406EF98608E5CBFFA71CB36E2B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusStaffMesh.h",
+      "sha256": "A442DB516BCB40E1FED31DB46DEEA581EB6C0BAB8EF17ECF08D956641ABE5614"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusWalkProbe.cpp",
+      "sha256": "1E75A273F2151C87DD8578895F9494F9D23E3473492736F8D61F5FE511262AF1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusWebScene.cpp",
+      "sha256": "767C44271329700D8AFC920D305715A2A2B60D6C0AB9035E297BA17F4F66F258"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCampusWorkday.h",
+      "sha256": "B5204042B157D42B87DD81240C0D72E3296E549F3875E2ADC75EBD979FB2010F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCanvasStrokeTests.cpp",
+      "sha256": "46206CE45530B67EAF9147256244383978C46FD86F7D018767F7EA806BA0B195"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationData.cpp",
+      "sha256": "C643EBF56645B891DB46B48F2E85105D748367E9C679014E46CEF83C5FD027E1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationData.h",
+      "sha256": "15E418E01AFAF37DF52094AD82B2A4AA596EF34D040FD3819889C1FEBF275EAA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationDataTests.cpp",
+      "sha256": "623669714EBA470492B0A431ACFFA903CE19D38E73D84C1957610861B16F1456"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationSubsystem.cpp",
+      "sha256": "12700B70E7D5452C1F020B009B7712D24DBE78D33A11718D8189F03FB9E44C6D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationSubsystem.h",
+      "sha256": "2320B24B5FC0AD64FD0B49E3E74F1A3254DEE359885BBC888B6FE9DC2150FF82"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterCreationSubsystemTests.cpp",
+      "sha256": "A1E4EDBDB1A04421109EE2889FE18CF9D3AD300542EC4C366DE23E5D3B7C6D10"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterLoadout.cpp",
+      "sha256": "D4EFE14D664B760A838DD2220BE664C533CEB5A44CEC236400292426B443F2A7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterLoadout.h",
+      "sha256": "D599E1B9933E40A3282D39D10E3106D4D5005B2122BCBFDB64023D5F174F8FB0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterLoadoutTests.cpp",
+      "sha256": "7412D9BA2A6B02F1E53E70DD61845A2FA3BAAFA9841681BE179FBB842D6891C0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCharacterProgressionTests.cpp",
+      "sha256": "DE66CA55B7F82655EA3E511364C0DA076D73EB686BFC08EFD11F1DE8BC06F612"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChinaCityTests.cpp",
+      "sha256": "AA19D9C2CE7D88F307F47694FD3255245F5D2BC07633E14D635B62E88239751A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChinaCityVisualTests.cpp",
+      "sha256": "B17AEB83D3222D27391CF922C542DE5FE1B683E2C34358FD555095923B6369BE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChinaStreet.cpp",
+      "sha256": "EC2387DD783F21110696E88E0911C50DD5C47C2D7A229114F6B7648629DA0F31"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChinaStreet.h",
+      "sha256": "322762AF214B303952AC143ECBD16EF4355DDFA94C562547714ED63591B08413"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChunkActor.cpp",
+      "sha256": "6A63BF7B83A0168ECEC66B7FEA6A6D49ACF6291110D4C3E4E488402A965C9912"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberChunkActor.h",
+      "sha256": "F143F5A6CDDBD4353DE580BD56ABCC25827F8063EE0A349038E7ED3691C810EE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCivilianAppearanceTests.cpp",
+      "sha256": "37386F4A44F338A7903C6858893119833BBA16AAA5D4A138FEE02048F8407C5A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCommunityWellTests.cpp",
+      "sha256": "6DF8AABED636C97DE514CE6F70145DF0C0E48517AE7D750D4B4A0763D6D0000F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberContainerInteractionTests.cpp",
+      "sha256": "7563115CAB2825244B0EFA8F00D0DC6935AD1569F151D133165512BDDD9AE53D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberContainerTransfers.cpp",
+      "sha256": "24715AC564BE12A65C18FFD9BE15D3320A616520395531BEE8DB4F39A837181F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCoordinatedFuel.cpp",
+      "sha256": "9188EF80DF3FCE8487B1C603767522579965B1CF17C615D34CDD32B3CB0A4A94"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberCoordinatedFuel.h",
+      "sha256": "3A52B178BBD48731EC7C38D5C5D3CBE045EF6AC71C8CA7E449E710AA00EECEFE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberDrivingPerformanceTests.cpp",
+      "sha256": "9678F43066553BA9B84D506AC74DBC2E40284AC7748D1DC52C1C48B511A8F68E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberEnvironmentSubsystem.cpp",
+      "sha256": "0430337ED6658A132972EB0C657D432061821559939A41F3C88C38C321922052"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberEnvironmentSubsystem.h",
+      "sha256": "9EA21B7923C6908E490900D08B1E95F78A84FE95E8702D166C110AC4A965095A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFacilityInteractions.cpp",
+      "sha256": "11F52B62DEF81E6A2AFB55BA119D18BFED6CF27C7235E9B8304932878E2CAC60"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFacilityInteractions.h",
+      "sha256": "B6A8584F50B8D6E14B8FB5BCAD4B4FF287F664D3940ADC26D398695454B8DB22"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFieldInventoryTests.cpp",
+      "sha256": "A501D7F380C4425966E025EDDBCA1511AA228BD8F7B316C057C04E63C3959C23"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFirearmEquipment.cpp",
+      "sha256": "2CAF1B2FBC13CE864194F445B0807264F3FEE4F8F51AAFDAB05E34A0B1BA9143"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFirearmEquipment.h",
+      "sha256": "B9F446C31AF4D3D49D5DD185AE466A322E8DDC26FE0862C67D9BBC5A9F0AAEDD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFirearmEquipmentTests.cpp",
+      "sha256": "46D64E6E62718E709BE421213B4491B956D3FC8494F6C5AD089CB8E1758F36A8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFixedBuildingTests.cpp",
+      "sha256": "A52EB8FA2CFEFD7FE508D49E324ABA8ED2B640D8C48F4A66A6178A8A17DA4A57"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorGameplaySession.cpp",
+      "sha256": "7272E5773701A0CC622A423688FE408133FD8281680395E6D149D6034BC766B3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorGameplaySession.h",
+      "sha256": "61C945E6E06735E02D75C2E5290F71CDB6130FAD57CFEDDD768F4EA1576F7442"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorGameplayWorldGlue.cpp",
+      "sha256": "8D0E2F6BFD8FD011F09855349630C8229738DE2902A4636AAE10D53F4B2B44A5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorGameplayWorldGlue.h",
+      "sha256": "F77016E87D49D93CE723BBE98BF34CDA411917B474CC2CA660145E54FE24C855"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorInventoryGatewayTests.cpp",
+      "sha256": "713839E1F47840B3C9E909C3DD4F0A507870116D7C226BBA80ABA36E1F95FF3A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemOwnerAdapter.cpp",
+      "sha256": "DB5DA2E261A640B17AD5146B4744F657C481F791F2FB1A91747C0EC3AD10B909"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemOwnerAdapter.h",
+      "sha256": "B278E0304911175DD7B6DBD06AD7F4CCC48AB3D9A869CF0DB2FE5CA51E885B49"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemOwnerTests.cpp",
+      "sha256": "BDCAB890AD0DB1340617751472411BC89502BB6FDC7166CF4DBAA8A311BD77EF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualConsumer.cpp",
+      "sha256": "423F6C5F26D193007EF512438940BC72BBA282780203C2ADE3F250CDF80F6824"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualConsumer.h",
+      "sha256": "C355954748701C1D9D905BFEB84F683A84161C51A9C7695674D75B918B16FFA7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualProductionPick.cpp",
+      "sha256": "6A7B4EDF88BE28C41CD9D4180D5042D461D0A04E082C9CB547FA40E80F2E3BA0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualRestore.cpp",
+      "sha256": "0F9F66B705A0724EF58669233574466A903DF7E34A69C9FB69C707333AD1FED8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualRestore.h",
+      "sha256": "1565993AB6ED1B819D2F72D9FD5E225074359E35A8376D49AFD9F6C7EC293867"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorItemVisualRestoreTests.cpp",
+      "sha256": "DEE479BFF2BB5CC5243CB92E63AB924187355281728B68E8BB50EFE21D13A0C9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorMaterialAuditLibrary.cpp",
+      "sha256": "567D21783A8088A5CE24406D9CC4A9E512CCC5D1F535C982109346DE91D1EEC3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorMaterialAuditLibrary.h",
+      "sha256": "8B712BC1FC71DB52C05DD0A268798019D3772AED79CD4634AB0210DF6239BABD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorPlayerWorldRuntime.cpp",
+      "sha256": "DC981C472407FD978524075AD5249CF367CD008D589AEAF4C54BE90D3E0CB003"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorPlayerWorldRuntime.h",
+      "sha256": "5D3751BE0D35AEF45D399258AAFD8448650FFCF8DDF9F4E8581A970808C3354A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorSessionAdmissionTestFixture.h",
+      "sha256": "457C7E3EAE6664E57126C1032686A32FDEC5D8F7822B5D1203DCB087C91A048C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorSessionAdmissionTests.cpp",
+      "sha256": "5B4D6832A9738294DE43DA8E408C9CCAB8F7A8B242A3DEAC6B8D5D38FBD5314D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorVisibility.cpp",
+      "sha256": "5FC0E36253190622052562FB540D1D4526E03F39E41BD9D04EE25BB309E6E8A4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorVisibility.h",
+      "sha256": "47192B7CFE8345F5960EC73FB25B05D6DE7C2A378763B359B652BCE83647FD13"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorVisualCaptureLibrary.cpp",
+      "sha256": "914B63121ECFF691D9B70DE4E9E6B171DE59EF3982B95AE11C0772129BC8572E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorVisualCaptureLibrary.h",
+      "sha256": "B9AA92A1870864A1F99957907B2EE209B674E3CB1A3F135F5B0C90BA91D2AF4D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorWorldLoadPlan.cpp",
+      "sha256": "FA85E35C5DC38DBD3A21E5EB942FEB9C7D252DFDFF30E2C3E04F1EF566B63F4E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFloorWorldLoadPlan.h",
+      "sha256": "5CEE2CBE125A1A06B11A26503FAA3329E43B8EDD63F42192C47874FDB8EB7FBC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendGameMode.cpp",
+      "sha256": "2D87DA928890FD231E0B8928F185305C54556305FE208CEF38A2DE3C278F5CA6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendGameMode.h",
+      "sha256": "56B7F937458B3AD71CFD4BD8214CE989C78596C25B7C0A41263389BDD8848C07"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendHUD.cpp",
+      "sha256": "783E6A22521EC8ECF561224878A4A52FBABDE3DF5A20E607F11D9E931A027BB0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendHUD.h",
+      "sha256": "F8589578C22041FA74BAA0C703CA759EB437851CCBB5D78736A3798CA50C1155"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendPlayerController.cpp",
+      "sha256": "7A0C0A47484D82CB922EB46050A3CB5FB6D680E1EAF18E83F04CE99BCC5C8B4D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFrontendPlayerController.h",
+      "sha256": "D64C602F118E571A20C9D2AFC427C2E5D222F793F536BF0FBF62C201ED758879"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFullSessionRestore.cpp",
+      "sha256": "A6042D41231B4957CD850F7F01FAD7E1A0F632C88595BEA25ACBE25927EBEE9B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFullSessionRestore.h",
+      "sha256": "80A1ADBE9DCC336E5ADD3017D1600ED179ACC059F5E6040971E50C2A6EBFC8EB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberFullSessionRestoreTests.cpp",
+      "sha256": "3746447C69E39EEF04AD8ED1FF2CE6FB4183501470C1D79E7DE78C1A6E18E45A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberGameplayPerformanceTests.cpp",
+      "sha256": "B3FF8C5C4DF053316E7500BF7379B1B24E7DF508C0B0ED9CA41228574B6E11B4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberGunEffects.cpp",
+      "sha256": "F7D78DA88369C94650FC8CDFEAA799520735FDA9CA19973B13D3A8186B6A4B73"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberGunEffects.h",
+      "sha256": "7F868756E601B4A946D7416FD84FAE06FCECAA2A37B27FAD935291C6B056952F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberHeldItemAssetRestore.cpp",
+      "sha256": "18E31F44643301E78A8284A36648A6A86A45F535057556035C802FCF59027A44"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberHeldItemAssetRestore.h",
+      "sha256": "CB0474772B7B304C45109166838A514DD3C7EAC3142C977878EB92E0E4216071"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberHeldItemAssetRestoreTests.cpp",
+      "sha256": "A1F8EC2C06D1A7AC6FA588790CE1EA36CC2AF7B12B792E36F839CF1CAD2F4FC9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberHeldWeaponVisual.cpp",
+      "sha256": "DA1A540320295AE474671730713B4055517D501F9EC78F2171CD5B734D8168BD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberHeldWeaponVisual.h",
+      "sha256": "9CF0A97B2F8F671E12FB7AF3073A58917363E2565742E6E5511E0616B4655504"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryActions.cpp",
+      "sha256": "BBA1EAA8AF5436D0A5D0AB2C366120389D416E675724690F7D7D189BB7B12081"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryItemDetails.h",
+      "sha256": "DA933CD41D85AA279C588F3F8FACF0BF24BAD1D0DBB7311882921BD96E3264AD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryPanels.cpp",
+      "sha256": "A5A4E6D9832A9CD9AC92A7F859DA81CECF20CD6B56CE8D5B0255FBD3DF86E8F7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryUse.cpp",
+      "sha256": "64520BB10005C9807B5EEAD54AC62B8E78B13531D4119D310D3569C475AEF101"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryUseTests.cpp",
+      "sha256": "A2DEC02971EA0CD075A162A33DF44B2B7C8B21F796E9AE8E595394A29EBC509A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberInventoryViews.cpp",
+      "sha256": "A5151E9DCFB1F6616F5959E3D401E71DE9BE5D36DBF1D6A13A82A9FEE87DFB1E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberLootSubsystem.cpp",
+      "sha256": "C5D8D05D9F9BFD096280716BAD906D8975FEC22DCF7743564AC5ADAD16EA4BC8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberLootSubsystem.h",
+      "sha256": "83462C3378C3A5554D33C0617FD428805A36612A6860A1021D1EA9E5E79F4DF7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMedicalPanel.cpp",
+      "sha256": "FDC25B41D7292ECE2BB7960FD087B37E6A53F6BA18AD396E5F21AD845AEB6A76"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMedicalSubsystem.cpp",
+      "sha256": "A36162E96AF0ED1EE8FD008294DD7187C4A72D719905D0B4651753F8E42D976F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMedicalSubsystem.h",
+      "sha256": "B8029E94D41516FE3E69830CED775B98D1B9CE4285536469A6F11CC0863E6F7B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMeleeEquipment.cpp",
+      "sha256": "8CFB95B8AD3D385B1DD3291D89D78EA6C19744BC9F032F210032CEA9E9D12CDA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMeleeEquipment.h",
+      "sha256": "6BAB6ECCCCAEDCCCFD3AF79227888966B0C567EB13276F03D14FCA1006E5154E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMeleeEquipmentTests.cpp",
+      "sha256": "9009CC5EE3A0BCE25DC7CA015594A8B596E2E539ADEB358A599A4CA24D604790"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMigratedAssets.cpp",
+      "sha256": "2170AB1E6D5A28F1E789239431340B0196D4C4A70D63A1293761002C5F9F68E3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberMigratedAssets.h",
+      "sha256": "E0C9D87A39B60140916F07168196BB2C8573EC5A1AE1719A715FA763439B46D2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberNativeQaInputs.h",
+      "sha256": "D3CEFCF4DF8860F0E556396601DDD79F5C1375D75B4983E865E230B049E1165A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberOtherOwnerRestorePlans.h",
+      "sha256": "1D06779105B9B26B722910A3C2AF5817DC335D9C971E6A1C66A9F63AAFD61FAF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberOtherOwnerRestoreTests.cpp",
+      "sha256": "CA3B4009362056E80305C464EAFAD1C8BD269BE18B586EA20C3C0016BB66C121"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPendingCameraGuardTests.cpp",
+      "sha256": "064D1592B5DE0396BF9F3B0772D474DE225677007F704E418F554FF52B17140B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlacedStructure.cpp",
+      "sha256": "D092CCF626A55B05D17BB5B1FC90F1F9F2D2252F5A6D3A9B27A0ED02F9CF530F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlacedStructure.h",
+      "sha256": "94541582AD8CB700C6FE3DF736683CF5AD3B87DE1110E944B2CA0587698910B1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerCollisionTests.cpp",
+      "sha256": "263E4EF1A71125C8434A970C1DCAE3B2AF73FA5DEB82879482F9449073A877CA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerFences.cpp",
+      "sha256": "EBDF31D57157AAFD9939F5D6FE016D3FF242ADC9C71299200839C6A08AF9B3F3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerFenceTests.cpp",
+      "sha256": "8B26F409817DE3A11B9C506A43B24F77FDEFB8BC0F439EA8A7604546145F2075"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerFurniture.cpp",
+      "sha256": "CDCED64E0FEB3EF923856D003F40FFCD7C347BABD7E9CDDEAF74411F29EF87D5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerFurnitureTests.cpp",
+      "sha256": "7F78EDE14DE15DE0D9F6AC1C79FD161B29BBDDC599650C025C2A00F69C44C994"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerSaveValidation.cpp",
+      "sha256": "6DBF322E39A949F6A9490AA47059E948C17A822A6B06A3690D79F8EA4010A116"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerSaveValidation.h",
+      "sha256": "F55607C6701D5263A55627E0E6EB736345D79ACA9BC35D67D5E09A67D6382BE7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerSaveValidationTests.cpp",
+      "sha256": "B80E0CB580730A3DB7B85CD7F41F14604A36B98BE2D0683BC53E3CED5C9187DA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerSleepTests.cpp",
+      "sha256": "F7D895701437E71C22BF81C79CB9D4C226E0C6A2038C0D02C712BFC107BA189D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerWindows.cpp",
+      "sha256": "200BEDB79A3E44D0E119524064FE406C947DB35FC2B3C6A50A1FEEB57374ECEA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPlayerWindowTests.cpp",
+      "sha256": "A5B33029FF931C6F38F2B862C186B55FBB5508BA7315CBA196BA288C85D09639"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedBarrierAddresses.h",
+      "sha256": "82C4F4138F7B829946364AD0C4ACEBC508701D339284106B6F75D301B6213D85"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedCollisionISM.cpp",
+      "sha256": "0C6CC018698CBF797F789094D0A69AB310C9117C70A534C0D07935184C8EA8B7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedCollisionISM.h",
+      "sha256": "44E2BF1EBD06C7400A404BD5BB064DBF892F8A0203FD4DE371141966EE4C2C83"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedCollisionISMTests.cpp",
+      "sha256": "7028E64471AEEDFC93F8D6445FF030A743ED879182417DFD812F430F96B7FD5D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedFloorRecords.cpp",
+      "sha256": "6DB6AB8E938AB629FD23FC513D2CC4A3B962D57532D4E076933D8A9D0E40807F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedFloorRecords.h",
+      "sha256": "34B6DEC7CA1C2F935739719834708FC47B943F1E0ED174F5C9768D58ED248665"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedFloorRecordsTests.cpp",
+      "sha256": "753BA41C519C308A3DCC33F9D357F297E4A8997385BF308BEDEA6DE17252BA56"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedMaterializedPlans.h",
+      "sha256": "FF4A0539F57BC812E1722E841FF3BB4596CCA6B7639DA3A6233D0439FDB4ADD8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedPlayerSupport.cpp",
+      "sha256": "C5F5A144AA52329E5E3C3E20963EED0C528D9D6515A69D60DC8AB34C0BFBC031"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedPlayerSupport.h",
+      "sha256": "19347E33C75EDBAE942F0C98680A345AC642E58C491D72B55B7815E4EBC50455"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedPlayerSupportBodyPoseTests.cpp",
+      "sha256": "218D9BA111F8E3178DD13E5ACA12FCF64C94E8AEA14D1D456ED6CAC126A56DB8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedPlayerSupportTests.cpp",
+      "sha256": "6CA7F80B1C0FAB1356C33BC6F0039C9CBCEF3E096EC5007A768B61D27F11F22D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedProviderTests.cpp",
+      "sha256": "2DEC004DE076DE4B296BC0B6E6BA24AE09A5390EFD64AACAE8AA84023F93F642"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedSourceActionAssets.cpp",
+      "sha256": "A00E65E965D55AC14B80F688B1B567EF7C54D61503DF1819407BCABD8B420F75"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedSourceActionAssets.h",
+      "sha256": "EA2BB99A764F0155F6192134C801F949F92D2233FCA353522BCC1C675889FD9B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedSourceActionAssetsTests.cpp",
+      "sha256": "F8710C9D41EEE6299A0ECFF1AF07389994F31547866DD4BE92FB2E838B53B999"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedWorldRegion.cpp",
+      "sha256": "470CD148076297A639A0D5CB74217400875D06E666A12E2167CB40A067423BF3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedWorldRegion.h",
+      "sha256": "2F234FF400A6CB0580D5A224AFE5C90CBF48C5A96C85A8B6A61567AEC4E727A7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPreparedWorldRegionTests.cpp",
+      "sha256": "9187AD110A363A15A4B7F7DDC961D875C70FB73C55D51F09CFF71E94377178FA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionFloorCatalog.cpp",
+      "sha256": "08C6AE50B4654E20DE62CECCECF14A99B206E345B4876D0B2B9FA3BB20776707"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionFloorCatalog.h",
+      "sha256": "E94986954527C96FEB1078D30F9A31A966E11A5C646353F8A05CBF6ADABF9553"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionFloorCatalogTests.cpp",
+      "sha256": "777CFE335CE539982C65684DA311A6F7FFE64E20F4AE5E2B1CBF5A5B7C481D99"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionPickCache.cpp",
+      "sha256": "8C5081F042851BDF56AAFBA2C19936E470F521CBE8E451D3D53FD0B9956B2845"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionPickCache.h",
+      "sha256": "31BC39E981FA022DBA11EE97C3CADB01B834EBCFA540CC4584F51C5DDE27347A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProductionPickCacheTests.cpp",
+      "sha256": "303BFAC4419EF5CB58E42ADD8B89BD3F2A405B1767513DD4238D4857A2977C9B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionBodyConfig.cpp",
+      "sha256": "FAD31F568F7B9D0EB81844F8BE3C68677BC2CA3ABB137A2D3786396098098344"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionBodyConfig.h",
+      "sha256": "2D5BF1646F199A0CADDE56B2C301F6B139ACBE0D851BD459280245FD08487694"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionBodyConfigTests.cpp",
+      "sha256": "93B92E6CFD9CD7620C26B027E9C4A26BA3C78B360684325FC4722494360DED07"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionSessionFx.cpp",
+      "sha256": "2260B680A8B890E69A61D97662956FD7169F4B6CF55B666EB11FF46AF69B91FF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionSessionFx.h",
+      "sha256": "3A831FF864909FB01BAFD67E4CDDD001F51FA37AF676BDAEE50C4AF138882C55"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionSessionPolicy.cpp",
+      "sha256": "486B296618E4A75C2F84D823EF89034815DF12F9A67B95B521A74E4674C803E2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProfessionSessionPolicy.h",
+      "sha256": "5980B8B37024171363465E21DB2128FDD3983F6CA3C3CD23E861AC4B0D7D1EE7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProgressionSubsystem.cpp",
+      "sha256": "33BEA7E91579E102D64AC04114A4E7732FE5515D6650F0C42B35DED0F5E80857"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberProgressionSubsystem.h",
+      "sha256": "4FFDBB15180C79B49796F376897B60B4E8D98AB40C06DD3C17A65B720AB32984"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPublishedCameraArm.cpp",
+      "sha256": "427FBEE06FB2DF2FDF4E288278ADEBA7BFAEFF7466015D7DCF32EF262DD7406C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPublishedCameraArm.h",
+      "sha256": "55F4FE2CEE38C6FB78E24D29E938BFAC0847DB4DFC19A0B10A66A1C73DC4AC8A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPublishedContinueTests.cpp",
+      "sha256": "1B78440FC3ADAF939CC53C52CDD5A54AA230E120C940F625311E453B1061FC7A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberPublishedFullSessionTests.cpp",
+      "sha256": "3E5DFD723FD17778C7243B3103CDD113442F16C7B13D62939CBCD83AA5D1990C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceArchitecture.cpp",
+      "sha256": "46B6498380F6C1AC166ABAE5647B4B1445B2528E0B532B89EBE73911B919D313"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceArchitecture.h",
+      "sha256": "D2C521EDDF3BB364C24FD51F8D73BB202FAAC7647219FC09A4C12924A5E9059F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceCanopyTests.cpp",
+      "sha256": "1C9885FC0DD94FEB3F465B1424A3577685AE01632C9804EE7F4421F4D5E0E376"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceCivilian.cpp",
+      "sha256": "F5F113CF1E0A5C9AB1AB5D1AC04C44D7D3992070E9E3624634B63FA66F02D248"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceCivilian.h",
+      "sha256": "DE92F17A604B8B42D027FBF3E5F0540CF7EBBAF0DACE363D4AC7FE7F9341A736"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceCivilianTests.cpp",
+      "sha256": "EEB9E0245A27F722F824119810183AF6A246576375BC9DBB0D792E964F22743E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceInterior.cpp",
+      "sha256": "4AFA4FA56CFA0877ADA7A33362E2D009710B9A5CF3274A8289E2B809AD86B162"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceInterior.h",
+      "sha256": "21C439D0BB6C1AAEEEFE663F0D6634F4E23CCC397F45EB1B1500231319333534"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceLighting.h",
+      "sha256": "FB414CC5633D20EDB4E62EF9F24A6B07002CE3AECF19D5724B3C4B2BC2945702"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceSurvivorMaterials.h",
+      "sha256": "7C3A163899A5087A200A6F50B93F672793E12817B9CE42EFA86755937B49AAA6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceVehicles.cpp",
+      "sha256": "AF543EF81009630685D7815D7A3A95BFFEBA95616654A7E61A4325154E74EB53"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceVehicles.h",
+      "sha256": "F51809D464863D1A3F8AA878043147004C02CAF5D921582947FF4079A8443C73"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberReferenceVisualTests.cpp",
+      "sha256": "938B873F74AD8CB42479942DBBFF99BF03B637D49C2288174D8E758BBEF39B84"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRenderPreparationMesh.cpp",
+      "sha256": "DEE700CE952C14924FCA3A734D56D3E11602E244BF1C77BF9CDC72D4BC278259"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRenderPreparationMesh.h",
+      "sha256": "9BF7CAB1E75920381D15E4905BF9B10D7ADCD828EAC011CF8E0D486B0D99CD3A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredHeldMount.h",
+      "sha256": "FA70AC79C29174A01F4B2A612FF5BC320EE49B236CD6A1D2EAFB1C1D37CED587"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredHeldMountTests.cpp",
+      "sha256": "408BD1481ACD758506902F4BB8D6AA9090F1430AEF6BA495B0AA930F734D1839"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredPlayerPublication.cpp",
+      "sha256": "3E385950DD36CE291CA414A255959AD5422A4E419A54623BFFED8903883D13BB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredPlayerPublication.h",
+      "sha256": "78A841FDED325A825B92409178D1E8042DD3965A135EAB8937599AC6D86105DD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredPoseEvaluation.h",
+      "sha256": "C63176FD3854A60E32F3BB061DC8B8D1E15A606563622AB7922C57FF7CCFD09A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoredPoseEvaluationTests.cpp",
+      "sha256": "8180E9C24E9DD73FD2C979A7C5432EB80445C5998DC614C7F7B77888376741E9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoreWorldClock.cpp",
+      "sha256": "BE6A2924B706ACD2EA93B575575C241819BEFBD3797B91188B83D2BE62BEB2A5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoreWorldClock.h",
+      "sha256": "897E7A16E7D1F8719425335874A1B23E90A9DB744364F67BB09FEC78195BAE6B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberRestoreWorldClockTests.cpp",
+      "sha256": "CC76B96B0566531363C01BE9B57061BFE612EE3BBA1351D6563C0EB0B5B5BE8E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSavedActorRegionTests.cpp",
+      "sha256": "F819B58965C9650D0EF880209C0CDC49A4315CB9C8BC78C5B337E8E6492A1725"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSaveFloorAuthoringTests.cpp",
+      "sha256": "B90F9074E789FA1179D378323F92B5FD3A8F1F9C80A02B8DD6030D815F6F3FDC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSaveSlots.h",
+      "sha256": "F9AB65C20DD01A59FA4C08A6BB6713DE2B86B0C89B7B074A0E535CFA49D7C0E6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSessionValidationSubsystem.cpp",
+      "sha256": "ABABD1E40AA4CDFC7B437CBDB5389AF6FD4AC754A2DDFFC0556021C6B43CC7A2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSessionValidationSubsystem.h",
+      "sha256": "417AE04EEF7D1B6205AA0DD54A9201E7446FA0983CADAFC8CA6870B7B9E21565"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementRestorePlan.h",
+      "sha256": "23B2AC1BAAE2E048B9872278A71DD5E64390FB0DAC76DCC79788373F2C61E1FF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementRestoreTests.cpp",
+      "sha256": "0645BE11B10442C2B292D7259C5CCF2DFF55D7866BF52FAF326B2EE785AF59DC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementSourceOwnership.cpp",
+      "sha256": "621317F74FE74D4DB3D0335CF4C8EED705C062B960DC29AFC3D940D5D5A5BEFB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementSourcePlan.h",
+      "sha256": "4EB42EFCDABE967D6981A6B8F06FF87DABCCE7E04C912D47E5D7076678C9CCE2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementSubsystem.cpp",
+      "sha256": "A42D1E45492F4E577F81F91AE7772F530128055CADD420BC79978C3C5A8C01D2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSettlementSubsystem.h",
+      "sha256": "26B269E9E2AF41233BC3D690E81F9D8316515342151D6D000EE6BD18D22C8A0E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSleepRulesTests.cpp",
+      "sha256": "31F3CFA3BF385AE57998E8810C18E0DC74DC92E44D80D06F54B49EBEDC9ECDFB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceActionTimeline.cpp",
+      "sha256": "89F59EE8CDA3ED9EFEC4DFF3186DB5C3A83EC934A1B286268FD75149D95724BA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceActionTimeline.h",
+      "sha256": "D7F73B7C178DFEAF60B276E91EEF8C8ED4D5046CF1CC30117149A1583B02D214"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceArchitecture.cpp",
+      "sha256": "18CE6AC7A420D2374B61D3D99C2B7DD310AC761E1A962A2F436FFD330FB67361"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceArchitecture.h",
+      "sha256": "2F794032E8185715F53A2DCB39698FBFF5FA826A1C3DBF0B65D8F06D2B3DABB0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAssetTools.cpp",
+      "sha256": "5F55F057BFF157DC586F4D075BF1BA68C3CF8D260FD6614B2A42448F46288963"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAssetTools.h",
+      "sha256": "25A22C6E8F7B32E6770D2C3342F38F6B091C12653A19C76656D077235B5A6D07"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAtmosphere.cpp",
+      "sha256": "504512C54C4CEE37E19E210B802002086C7875C4C5B0B630E5BE08436A7B5308"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAtmosphere.h",
+      "sha256": "50DE466C447A4A2BAEE1A1E5262D58344F10635820F0D6785239A127AE2B7B6D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAuthoredSampler.cpp",
+      "sha256": "DF36E7B6353AFFFCB76CAA5AFDD223A09D46BBE70CAE214D41A6525CD7D4C6ED"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceAuthoredSampler.h",
+      "sha256": "D9A547B6EA3895585155B3B7B3D07F938F351E5C7C7A57EC46FE48FAD319D7A7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceBuiltPresentationPlan.h",
+      "sha256": "6CF6BC02C889B33BA7B9E3DAA5D472EFFEC5F2222D42EA73305364ACAD38108A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceCircleFreeTests.cpp",
+      "sha256": "8AC87BF2CC231D44E09243F9BC639FBB7FF7C87E393DD49A526A8673D0A863D2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceElevatorView.cpp",
+      "sha256": "DD4076005161B38EFC7463E628B655EFDBBE822C66EF743AC58F0287811AF52D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceElevatorView.h",
+      "sha256": "85D0518C8472CB383C599C8C8EC1E42347163AC65388F7CC3754BB20B8F78EF8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceElevatorViewTests.cpp",
+      "sha256": "C5B9FC76CD57F30FA2EE0CCF92D4F96CFB99DCA8D2AD448021B9A23E640D6588"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceEquipmentBreak.h",
+      "sha256": "AA96C3DB8B554863B26304750F6F58C40A074BDAA5579C728C9349645ED368E7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceFloatTypes.h",
+      "sha256": "D1142F0B2E31BF58A3ECD3AC140AEBAF0E993B122E86B9CA91F77373CF7CCA2D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceFurniture.cpp",
+      "sha256": "4DF91B483533FBE82C7370A93F2E492B4FDC57C1E7971EAF8EC9C4B3F1192010"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceFurniture.h",
+      "sha256": "8034204B370EF2565C353F79B654A87B89820849EDDB3BFDA00A7C5E25C3810C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceGlyphMesh.cpp",
+      "sha256": "69FF769460F94160095BA79E6D186C3C90B3CD9B6CDA800A1459803E90143ED2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceGlyphMesh.h",
+      "sha256": "DC3D3A141D41DC8D4042836C7311657619F591F4E4A044FDDEB5897FA5907D7A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceGlyphMeshTests.cpp",
+      "sha256": "D519330637D59C379F44047D8ACFF6ADB2F38F5C9D75717A6EE819AD1F752E82"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceMotionClock.cpp",
+      "sha256": "3D3C251C0FAC10E938C5FF189BB496EDF25ECDA3464BB9AC5A454F70D644AE40"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceMotionClock.h",
+      "sha256": "FB8B3BA4522082AD6165C6EC269EB2A72DB1EF43F94BBE75B1652206888B9B1E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceMountState.cpp",
+      "sha256": "59BE479DF3420A0EC0DF1B7FD89C68B1E47C730A14A851D0E67E71243BBD6C73"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceMountState.h",
+      "sha256": "99CC748AB78EB1AD8551305B775C2EE3E087F9E3B7673473EA008DA30C0248DC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceNodeSampler.cpp",
+      "sha256": "3BAC67B3D6F53862CC591AA4D00D48D38B90CA88CB65A18E78C6A0114C0466E9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceNodeSampler.h",
+      "sha256": "9AF057C796997AA16D9DD0E18218AA79EB0EB08DEC17DEB37DDF4820D04DE687"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceOutdoor.cpp",
+      "sha256": "A378BB5FF6685C9ED585062FF299935DEE652A7DF485533AD2F9D1E9EC48CEA8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceOutdoor.h",
+      "sha256": "D5A996A52C4FDACC8BD53ABB4DF384FA69A4144AC692BF24F6871A4FD05B6A69"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePlayerAnimInstance.cpp",
+      "sha256": "9A8241230A00BF97F9C3426CFD5515AA0420DB772B4FFABBAE91ED5E23527D71"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePlayerAnimInstance.h",
+      "sha256": "0DBE4AB40C8008A4A7186AD027E9F52643B32E5E0C81313DFCB66BC250346278"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePlayerBody.cpp",
+      "sha256": "08D06026A0992FCAD72A25A761B88F1709EFE257CC395596D56800094ACF0957"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePlayerBody.h",
+      "sha256": "B8F76F0E42C1264A2FBA75D615B566547A7AF00E02A87C54F420C609EBAF671B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePortals.cpp",
+      "sha256": "3C30FBCEC78E41BB36A6DB8C2B9B17E345BA67FC8AB7FA538FA439F192770B7D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePortals.h",
+      "sha256": "B7B32170192E45F047902AEB935572758617821FBEF8FFB3A4DFDF5275067F87"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePoseMath.cpp",
+      "sha256": "0BCB1BD05BA02815FB7FFBBFC3BE6444ECC1C202A037584204EAC23C79443326"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourcePoseMath.h",
+      "sha256": "3392E0D91CF5A3578298CF426CB3FC3A41C0360ED387079385A602BCCC9E40C8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceProceduralRuntime.cpp",
+      "sha256": "ED5F4C68668C0F84063AC66F7EBA9DE5FF515D264FFF9FCD7CEAAEF76C9264DC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceProceduralRuntime.h",
+      "sha256": "05CDE7EA3BDA17E0B5CB9D4B67D6BB596478E5F1D36007490B75AB1E41942406"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRoomSurfaces.cpp",
+      "sha256": "C5C7C821E191B6BC692AA38D606D3028E0B920C5D5A2D750729011D05FD05C90"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRoomSurfaces.h",
+      "sha256": "B54A09431A804FC76268C1B4572DFED3ECB82F8464C87DCF2F462551C33F9D06"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeData.cpp",
+      "sha256": "05559BC51344F25FE34F4DAD113C041ACFD8E24F9B7206094ADEC5A7D7E9BD81"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeData.h",
+      "sha256": "FC40354A0F2898D1DFA315822CE57B0A02F2740237A3D92240119A4A7F531101"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeLoader.cpp",
+      "sha256": "C7AFFDA56D59044C048041B315629642C955316E014E7F68E31F7B258EC3548C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeLoader.h",
+      "sha256": "14CE1F8D4830CE351D9D805D640F6EE42C554656C3FAB5661CCD19834C2D4FC6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeUnrealIO.cpp",
+      "sha256": "5E49B20D936E30567EB295A8B68CA1FC22AD6DAF46D48A8511B72357B20E7642"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceRuntimeUnrealIO.h",
+      "sha256": "58069542316C401EA71AD406B55EFE4AEC91A41EB6326867BD6F5E89C25F871D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceStumps.cpp",
+      "sha256": "6012C3E0C1A74CC65699C9D009615522F741D97A3374C88AB4711AE34A3041C2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceStumps.h",
+      "sha256": "C31722816E19C71467AD75483F6ECD364423DAA46394468BF7D5CC3CCBB2275C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceSurfaceWeather.cpp",
+      "sha256": "AD0116B750991D882F9D4A79EC6124446989A19392DEF2F1673EF95EADCBFB25"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceSurfaceWeather.h",
+      "sha256": "ABC5D80751E8EC24B699853430475A9E17294CD4A097679B93767A8120453D97"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceTerrain.cpp",
+      "sha256": "E9CA10AEE0A7188C2BAEAAEAF20CB2A5464CDFB5BC1CFD82519192D501E82610"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceTerrain.h",
+      "sha256": "9DC5FA28188C83BCF48E71621AE40A480BA81539BC88E38406401DAAF14820AD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceTraffic.cpp",
+      "sha256": "DD50D653A54BD7573855235F7E90504320BA69D36A71E0A5F699AFBA18E39CE7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceTraffic.h",
+      "sha256": "3C5B951328337C975E723BBA1887DE47C1BB148C6704D6C12FC46218165AFB4B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceVegetation.cpp",
+      "sha256": "D7B8221D0E99761358B3124997AFDDFD1B29073132EDE7269EBDC9497DC61ED4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceVegetation.h",
+      "sha256": "3D8CB61D6AFE108707F4320029BDCB93E56FF9A8A921324C1F4F4A593BF12A57"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceVehicleVisual.cpp",
+      "sha256": "E4D334A633806F8B83B367B9B2DC1B58084C8794CBB4D0AE9F39FC1DB99DBB12"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceVehicleVisual.h",
+      "sha256": "CB47E0097DAF3330DDEA70B3C119D425B75371DC45BA864BE0BBEE1A0174235F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWalls.cpp",
+      "sha256": "AB0BBC1B0487D87A079B2DB7493748C6FA373017F24CB25D6615550BDBC59F49"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWalls.h",
+      "sha256": "F78CCF3302F6338B0F3A59175D7833D51F7A0EFF9880E480A372DA80169EE4A6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWater.cpp",
+      "sha256": "91172CDC6B6328482B9BB750CE826669AE3F04B5AEF72DD6A4126296D19BBD7B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWater.h",
+      "sha256": "826581FC435403FC3500F6E30742165CBB20239A7D367058E96142570B91624A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWorldDetails.cpp",
+      "sha256": "2DA68BE616FCC095DD31D69EBD0A27E070DFD303F7406C2E4A63CB6E281A1B26"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSourceWorldDetails.h",
+      "sha256": "1212787DE2B0265E162235AE9F69CD6169250486C55A33312C1F8CE4EFDE46D9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberStationaryVisualPublicationTests.cpp",
+      "sha256": "4C1A0FC4E03E94D57EAA486122DA4EEC72F2306153C37F30AB747F0E9241F4D3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberStationaryVisualRetryTests.cpp",
+      "sha256": "6615A7649E51A608633C1FD0A8418715015F6285D03143496CAD7BE8F4080087"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberStreamingSettingsTests.cpp",
+      "sha256": "F01A89345FDCDF1258D64D2EAB4316A1089D6DABF3E8656A7545CDBDDFBB5E1E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkAmenities.cpp",
+      "sha256": "FCB145CA8FAE4202894B93319F96DA64965B59D7794039777A8144CA862AC32D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkAmenities.h",
+      "sha256": "6386C4EF249DA9FB71F45336A42391CEF6CEB3A4490BE079D05AFB7C62495B54"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkHUD.cpp",
+      "sha256": "B4E131BB85936EE04C039A29A05159A0875FBABFD119F0CCABFEC59AFA5C98CD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkHUD.h",
+      "sha256": "1850C704B40A86C3EEB39F7447BE4E29DF2512603FB647FC9D8AA8C7C69BB3E0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkLayout.h",
+      "sha256": "32D60CCF74A8F8CF1369DC7883232A58B3BAB6880963808CC4F746ADE0991E2E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkLogistics.cpp",
+      "sha256": "B02A2EB3405D89DEA217FCD5FB985F45D91883CB471709BCE87F1EF55BBF3829"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkLogistics.h",
+      "sha256": "CC4599A5D5C6075EB562C718BC3DE349B6F6E103E7E89CD55ED8F73803851BA4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkPedestrianRoute.h",
+      "sha256": "2B5F91D16BB1EA9E6A1787B859E4B000B853B7080872DB525A423AAAF7618E92"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkPopulation.cpp",
+      "sha256": "A54158B8583676B92EF6AA2A931572CCA3F37A254879FB2AE61B5E81FCC3CE9C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkPopulation.h",
+      "sha256": "B16CB191137CE18811EA9BAC4E7608641FA0B76FC46D940B21FAFF062D9D4BBE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkRuntime.cpp",
+      "sha256": "6C4270F5B8673C74D3674298B3CD21C6777BD82A738AB06FB25B876AAE81D593"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkRuntime.h",
+      "sha256": "D09BE7103CB7A22C7DEDD07D598ADB121EA5F7C41826F5354072CE2D58BD8763"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkState.h",
+      "sha256": "3E9A5B47D520D8F4CC69C12DF1EE79C961576B2E6F9227908F0380BAA90F3760"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkVisuals.cpp",
+      "sha256": "BDB97BBB39ED7F2FC18C83A65FE528738B25811322A15569B2E54357E52E3BEB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSuperParkVisuals.h",
+      "sha256": "2B3F8C14B10901644D29D804D220287670962D391C746B10FBF862A6C93EE392"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurfaceVariation.h",
+      "sha256": "572B4A413E1E7E16B706EAB4FBA488105CECFDE4049BA9A17D188A8407980E1E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurfaceWeatherTests.cpp",
+      "sha256": "280EAF32DAFDE574DBE1F5717AA098C9AD3C86C995F3177EA7D04F3006F282B3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurvivalExposure.cpp",
+      "sha256": "8CE48348304EB848F1E0540F0664FA463358A44C85BD53931F1B81DDBB8CC50B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurvivalExposure.h",
+      "sha256": "9CC6CC7D3640C8F09D1BFAAF5F6B401EE2902E651B24854B245DD0F1CA98D948"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurvivalExposureNaturalTests.cpp",
+      "sha256": "147F27A22D1D241B211507023B1ED5B8519067FC97B7FBF46E15C0AF52203C6C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberSurvivalExposureTests.cpp",
+      "sha256": "AFF7AB2227492909F6CA506EDEC69B1AF0787C66D07F45C43E276B2B32D81B8C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTown.Build.cs",
+      "sha256": "34C17C5F7A90E5EA8519D58A1293BCC3ED2C879A78389C5B931590279093488A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTown.cpp",
+      "sha256": "3FA90057BE5C69B1CFF3A8A1113CE2F19717E9708C73594726B8A07BE06BA665"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTown.h",
+      "sha256": "2F0ACCB9FEEA7C1425B433588811D9424BBADB8C844D7D56A062AAF09BA94B01"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacter.cpp",
+      "sha256": "EDB4FF1FA15121F10B6F7E328B05B9E4EFFED69533E063B37D3956004D322A30"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacter.h",
+      "sha256": "9260EFC80267814CD91F6ABD3B992D99C89910C23AB44C21285FA7BAFE8C72F3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterCreation.cpp",
+      "sha256": "D1A0D459A2745FEF7AA14669D1DD3EEAC32CF61CC8AEE09BD99445FE771880BF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterFirearms.cpp",
+      "sha256": "31A61B36806EC3D0E60483B131054F5951D3E26D6531CB89DB45627C0FD4D4BD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterFloorItems.cpp",
+      "sha256": "A389B59C4384914ED5EAB2E2A3E7F8801ED462C825777BE2A6C39A644C0A2A74"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterJointFloorSave.cpp",
+      "sha256": "D8237CD18D883821399ED77CFF5A4045913569EF5C9E6F126713C1178613550E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterProfessionSession.cpp",
+      "sha256": "99BCFD1B7284C77E4FA8E6062020AB3C587F427C0BBE6B18E31444CF100FE4C8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterSourceBreak.cpp",
+      "sha256": "22935D8563AB8EE0C28377F33DE222C3F1104F3896C1058B84BE4DE6720980E5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownCharacterSourceEquipment.cpp",
+      "sha256": "5C26FF8B670FCC02EE38AE8991E0807861BC273603608222572B79E0ECB3D1A9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownGameInstance.cpp",
+      "sha256": "2932F669BA2A822A85E62DD415ECD3C2ACBC76311325186BB099C98411A75A65"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownGameInstance.h",
+      "sha256": "F2553088F225E331E253E5998DBF28994767DDB52AC18F9819DED5334F8D9A25"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownGameMode.cpp",
+      "sha256": "FA8B992BA2C3A450AA831F06E3BCDADAA5FCD81121E8C9D404663BFDE9926D51"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownGameMode.h",
+      "sha256": "6951A396EF09173D78FC85F5CA98081504020FDB5CBE59ABDAF86CF75BC92384"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownHUD.cpp",
+      "sha256": "1EB4EB0F8414F5DAF7712347FECAC23A094B63742D11262B1BD8F8D190E081E0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownHUD.h",
+      "sha256": "AE5CAE2018428471D95ECB940C9458BC77B7D972B0EBAF3E85A7B59445ECABCA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownPCH.h",
+      "sha256": "BE9AF04C0B5E684E41C1F157603FCC6D49DCDA5830A0D65F49DBD5CD83B7E638"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownPlayerController.cpp",
+      "sha256": "BD3499510633E8412BFFBC223DEDE3ADB9A2C39109B8BF16EA255B0BAEFBEDEB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownPlayerController.h",
+      "sha256": "043E7AF1263CDCEDC6AB8AE2508E27E82EE987A14A96867CC33A47C6A2C1B38C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownPublishedSession.cpp",
+      "sha256": "1E7CC7473590D697AA6D90CC1FBAFD0ED1AA6402D6242D619B5818AE139514C5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownSaveGame.cpp",
+      "sha256": "91830E16C692E366A7CB45E5F4233CA6FA58D8134A1A839E32CD6FFFD7F6947E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownSaveGame.h",
+      "sha256": "972F22901462BBCEF41EAD1137C8499C65BB9CD4F5268C499AE82740419CF933"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownSession.cpp",
+      "sha256": "72F9116B123613309799A650FBACBE738E97DF0881D7DB638DEFFC89FCF55334"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownSettings.cpp",
+      "sha256": "D5F30318D74A7DB3A777B37EFC3BF5544B3D86266857D2C99A160CEC3E24AF07"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownSettings.h",
+      "sha256": "3373C40261F9E81516C8AFD6CD7FB0C18A0C055572BCE83DEA30CBDA0A6641D0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownWorldFloorItems.cpp",
+      "sha256": "F9F30828D2C82A790F654E3C5C0F7B78873F98CFBB513B382487795219BB7B3A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownWorldSubsystem.cpp",
+      "sha256": "C9338C2F19811C7D7F21B2B48F8220401863A6B0B5122DAF805ED7F907F82EB1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTownWorldSubsystem.h",
+      "sha256": "9C6671AE75DD0A908350DFF188F50F3B495950F6B58C3388194C30E9092CE6FE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTrafficSignalsTests.cpp",
+      "sha256": "396C4D0DC5A2A84ABEC96FA62744B7349630DAC5EDC2FA4FF22E269E70FAEE68"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTreeFloorPlacementPlan.h",
+      "sha256": "654274A5D567CE3187A79E402F330D59E7C7D8B9AD9353C89BE84662910A84F6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberTreeFloorPlacementTests.cpp",
+      "sha256": "A93EF6C26E7760ACE37273D2CE8FECBB906F7E1FBBF6F0068BFFEFBDC73E8A0E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUiPerformanceTests.cpp",
+      "sha256": "C20B103DD0BE231691AC7C94B26700C18041B84A1A0E3B6B79BF87141967119B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUIStyle.h",
+      "sha256": "DC1E3F553C078449A5517894695CBED1D37A19001D22C03C4270E8A363C29B1D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUnboundFloorCompatibilityTests.cpp",
+      "sha256": "69D4FD724E11D61DB5A28DB773218E4F41B0EC8A13B730B4AB0D37F5AF67184C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUrbanAtmosphere.h",
+      "sha256": "5A4DDFE5CC7655BD3A1FC19E75BEA02C2E8068308EAD87FF9B110492809EC518"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUrbanAtmosphereTests.cpp",
+      "sha256": "D2901CD192D866D4E0E767066C34627800B671EA114622F3A298583C2394AE7D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberUrbanMaterials.h",
+      "sha256": "7FFA5288DB29F7E1F68A682F5E3BCF018DD8ACE8F65514604FCA0E56A8212E70"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleActor.cpp",
+      "sha256": "80956A2D14EA29AD50C407A68049D21EBA15425BB0AF2D5F772D00391DBA5F63"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleActor.h",
+      "sha256": "B1E4585B5E2D8EC51F49DB878792C5556789156D3A143AF7AA74E72E4E243A81"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleAssetCache.cpp",
+      "sha256": "1E3D04CA69CCFF5175B02FFDACB2ED2B6741F9B2258026E4A11880E823367B8A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleAssetCache.h",
+      "sha256": "35FA7BA76929E2470EEC360CBF724D3C1856238AD3ED53B5C1C27C145079C099"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleCombatTests.cpp",
+      "sha256": "9EDB1952E8E6F3E4A7027652A399126CC2C82EBA5F913AB8C3DF7F1DD736DE46"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleRestorePlan.cpp",
+      "sha256": "DCB4B1BE985F95EFD2C02DD05095092CF16F325B387B7DD16AE6BD02EEA296F8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleRestorePlan.h",
+      "sha256": "35E834B2FBAEFD09C69869AFDE4F4725C557F6F2EAC155B0B90AD58DDBCDA0C7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleRestoreTests.cpp",
+      "sha256": "BB421E9D5578B14C2E71AC7E0CE386571983583E7B2ED80B920A973F24206D54"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleSubsystem.cpp",
+      "sha256": "43377EF1E63BB814F63CBE631F37C476D11860DDD2ACDE233EA5EAB1C3262557"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleSubsystem.h",
+      "sha256": "D64ABCF6844368CEED482AECDC9D0457265D95539DB8D5E46684E4FA881AFBAC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleWeaponDamage.cpp",
+      "sha256": "E9B46FFFAF35E927E7214A09F91EDE3BB453754DFA9BFE10ABFE4B6A7AB80BD4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleWeaponDamage.h",
+      "sha256": "FF1949CB45537AE474CCE3BA171317B373CED279C8B54FA66FC73A9D62444D76"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberVehicleZombieContactTests.cpp",
+      "sha256": "236348956D6000F0E0D19B8B8646A4C06ACA58844CE0AA3453151FD6E535024E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWeatherVisual.cpp",
+      "sha256": "797670977EC213DFE8941412289A0EF8534338E3D6C63536614679C2DAFF0990"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWeatherVisual.h",
+      "sha256": "40B75D994D32C4C1C4F7EDCF518E480655F7B0F4F9A78CB2D6AD3F09892BDB5F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWindowGeometry.h",
+      "sha256": "C3FD311C13F02DF9CB57016B26F8D7BE21EF09B1F40A6AA7CCAAF6FA3AA19828"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldActivation.cpp",
+      "sha256": "DA6B082C75ADE5C93E01E504A16C4DE585C79A9F165D16ECD2A08693CD76B8F3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldActivation.h",
+      "sha256": "7AD811C55B025A7B464C50DF4DF75863AFE62701E1739AE6914A48D8CEB8FB00"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldActivationTests.cpp",
+      "sha256": "4A91C0C997881B98078A176122B33211854E7BE70404181B0954886059AE0A8E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldContext.cpp",
+      "sha256": "92901A40EEFCDD983BED9B3F8B872213EBB04212EE4D51B2820307071B47AB45"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldContext.h",
+      "sha256": "52A250243ECD0DF53F01E745190B6A44CF7EB39A63B91FF99B030C7B1960E8D4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldContextController.cpp",
+      "sha256": "47A02B84F1B60300606DB7073E9D20F5056676F1F7E9B5F014359E439F753F32"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldContextTests.cpp",
+      "sha256": "7442C6F11D5CB5E3B7E3454B64DEF3688F9613A558A40298CE18F3A62913582B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldDomainGenerationTests.cpp",
+      "sha256": "6A11DF09AE46352151FD6EACDFD4557459609D2EFE79D621848C9E2A7C97A346"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldGenerationData.h",
+      "sha256": "A8F264AB8FC232E546C798B228E71574F74E68C852061327D1612745E4458FBB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldProfile.h",
+      "sha256": "892AB29DB786F09A375A7BC6048D014BA8EB742B5371B36B0DAC6639DEBC27A9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldProvider.cpp",
+      "sha256": "66F70A07C3D2DFE672F9808AA2190C865289B3C6684585A8133673FC91F55FDF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldProvider.h",
+      "sha256": "D20CC78EBDE33D5BC5DB1F85C34A407838B16231138461B6827097B46D988F81"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldRestorePlan.cpp",
+      "sha256": "EEE23661C61679E014D5843F817B33BE04267E5ADC2391C240A3E5894FE26239"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldRestorePlan.h",
+      "sha256": "DEDD56C3A071BDE9BA74B748CDDC1A303B07329F3E78BE23D727529994379E6F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldRestorePlanTests.cpp",
+      "sha256": "BD1E91916707EE2EF78F3C74D24F97FA2F39B422F61A942FBB11E5F7D7933A1F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberWorldTreeFloorPlacement.cpp",
+      "sha256": "CD09CCAB35BDAA748C39CAFB45553E13D5106823A703D563E58898ED737A812F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieCharacter.cpp",
+      "sha256": "B146AD73F4A9EF743D91649B2DAE94C112A87F151F07C75B242205BE39763AE6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieCharacter.h",
+      "sha256": "9FEBFD0BC18D024012418E68259100D41EFC118D0B60669DCC38C0A6ABEBBA43"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieDirector.cpp",
+      "sha256": "EA53B770C14A72768B1429A0EEA87C5EE38808CC17A4D7ACF6494125ACD3DBCC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieDirector.h",
+      "sha256": "0B05D4FA2FDD6CF986949FA39746ACAA180D43DDF1F8C9C45B9BC69771756FE9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieFacingNaturalTests.cpp",
+      "sha256": "FC67DA02C5AC9201CD2992ACE89DF512F0DB9804371929A516F218B34B2CDB75"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieLegacyFacingAttackTests.cpp",
+      "sha256": "05E9819B30505A9F53621849BEEA17382FF5A8BD775F0F64C7911B9A3E570448"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieLocomotionNaturalTests.cpp",
+      "sha256": "8522B941DB8AEF372231C0B53B5E65A5AC92E1174126745BB028AF7B59C4BA50"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieMotionRepairTests.cpp",
+      "sha256": "220C9B57B01C0ED1A636708CE2E10E2F5C7A22984AEBED6EA5589E0E11AB72A1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieNaturalPhysicsTests.cpp",
+      "sha256": "124DBAE95F9F8C8D6DDD28BC06E580F739A2184EB20B7CB8328BEA2C1CD8A6D7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieNaturalTraversalTests.cpp",
+      "sha256": "350ACA43A744A75D88110DD376EFCBE8531BF1B29C16F71E9B1000686E4A52A1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePathCursorTests.cpp",
+      "sha256": "04EC2F1F617D2A2F48A2BC94AACC17AD45BAC1D481ED7838926D3535252D6D2D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalDistance.cpp",
+      "sha256": "3B2FDF96E27B49A6365C2D752D5849A6786498692DB15805F9673F5552485793"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalPersistence.cpp",
+      "sha256": "9A07A5582B8E8AAA96E0B88B565D22B71D07DEC9ED595AD632D8FC585E0B0BDD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalPoseComponent.cpp",
+      "sha256": "1B7DFE44703597525846C48AB64E749AEA305299EB9FDDEA4F013E88F53BA369"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalPoseComponent.h",
+      "sha256": "BC9F1E71B382512E1F0A92D643A7AFD01592DCD491D7CDF99E2C925D014E3ADF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalRecovery.cpp",
+      "sha256": "D41E03B5C96D1136EA71367AE89CA860BF051C345C8883079C8A4B555C37EC61"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalRecovery.h",
+      "sha256": "AC44928353248DB235C72AA9918C6CDD454AE864CCB32E364E18E9BCF6685365"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalRestoreTests.cpp",
+      "sha256": "1F1BC8332865FB10661F97CC83C12DF9966F27DD772AE7D99BCF1D20181D861B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalState.cpp",
+      "sha256": "2820C39F27A6B0BAA0549DDE0620097AADACEF722B0CA4CC8E256DF14100EEA3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicalState.h",
+      "sha256": "E5F5DBCAFBD2C8831628D45ECC4CB8660C80EE0E98171EBCCA0115FA212E89C1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicsProfile.cpp",
+      "sha256": "77738BA6F53C34A7C8FD7C7F5EE8814C42A07CCDF7E2297B72C4DEB27CE1C677"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePhysicsProfile.h",
+      "sha256": "CBBD3FEC5022255C38C44AA0BDA2C6E0DF882E58108DB5108B65E7B8322D221A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePopulationRestore.cpp",
+      "sha256": "4BA01A1C97FC7F2953AC27CCE57E717C02C077C9B0945C01FE49D3C7C6B6CB38"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePopulationRestore.h",
+      "sha256": "E9847C673342348919A9C8AC03EDF4503D2CA05873293EC02D651EC2336EC52F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePopulationState.cpp",
+      "sha256": "E8735747436216B36776E4D733D7D63FBB708AA2D0CB0187DE44231505CE1EFE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePopulationState.h",
+      "sha256": "9A055D1009031122D5BEA52F4A3211EBA07386B361650F41C28AE26BD3925280"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePopulationTests.cpp",
+      "sha256": "3D351B796301AE6ECCF6FAE96B4916D0AF622BD94C0E008946CE2FF885CF21A9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombiePreparedOpeningTests.cpp",
+      "sha256": "6A64D748C7AD113782F91F6145F591D749FF628D8BE692B0F8757A7DD54F463A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRecoveryTests.cpp",
+      "sha256": "2901AB2EB6E073BABA176D9FD6DD7B74D43C71975866A5050E865918FDF1529D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRegistryRuntime.cpp",
+      "sha256": "7C08D611213AD661EF7EF1AA416E56F736199049FECF45349D4A7222A887E8AB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRestorePlan.cpp",
+      "sha256": "F84C4AD232827A27177785A8C7CDEB51415201F8AA5D6BAF9C1900DF50A92C3D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRestorePlan.h",
+      "sha256": "1D50A293258513BB641FBAB3049B373450CA2CA5E4D426F8E39282177F50505E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRestorePlanTests.cpp",
+      "sha256": "772F70905B6312E48F8A4FBE875CAE9E45F6E0D72F6351147A4FA8D9390F0314"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRestoreWitness.cpp",
+      "sha256": "70BB34C312EC987107875FF2E296087B3581F62D08220878B3A3BD02FF829D15"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRestoreWitness.h",
+      "sha256": "0E9A9079D23DA14E7141D570DD829C68AF3C32C2ECD25C17EA6EBEC39E0BACB5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRuntimeState.cpp",
+      "sha256": "4D839E4B2B644CD2E269E3A66B8CBB7ACD182D4D28EAA9C71D86B3AAC9C111F7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieRuntimeStateTests.cpp",
+      "sha256": "12FC128E32364D7839DF18BCB4F6331AA45809F3C749BD27E30341184AF5D49C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieWorldSpawner.cpp",
+      "sha256": "8E3AB441463B8EF50953BDD53AA7D5A53BE62C6E5CDA2C82BB56B98EE955A7A8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmberZombieWorldSpawner.h",
+      "sha256": "3B113F05B2AE8FCFE13974E2242C46480284ADFDBF4F2070802DD85C23D7E038"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\EmUIValidationTests.cpp",
+      "sha256": "7129BE7F85493343DDF4B31CDCDC0D62D8AF4B2108C6E325D6AAA6BEFC8DF56C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeArchitectureRuntimeValidation.cpp",
+      "sha256": "EAAA913BB69C0A9DB10062D89F2BE21907C3849293F2577ED345A71DBB6B598A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeArchitectureRuntimeValidation.h",
+      "sha256": "2869FAE638FF4F91FC4A80B543FDEAFBBCF5A165DD6E340C650879F349FDB372"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeArchitectureValidation.cpp",
+      "sha256": "3064C84B855D02A6127FB41025A34D560FF5569949B762B0D753735DCA49248D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeArchitectureValidation.h",
+      "sha256": "1E12F5FB176CEBBB3F8485D814C171254531D37DC499560F56B2C0AF1E5D55E5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeBuildingValidation.cpp",
+      "sha256": "DB78741164037F6871364EDC34CA7669902A8D31DA7DF0AA775FF8B2E2C52787"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeBuildingValidation.h",
+      "sha256": "564E08B8C7150B5B81B59841E6092774C20493122C07C24145E4A078401045F7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCharacterCreationValidation.cpp",
+      "sha256": "C864142E0DE8DCE187F3C7E5BD640A82BE9188F9C7F7904B4C3736BA045B18CE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCharacterCreationValidation.h",
+      "sha256": "CEC288963E88619D03C901BA5E002B22B0EFD6DD6A747DCE41D20D193EFD5FCA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCombatValidation.cpp",
+      "sha256": "189DB557DAE26EE733262605F71A829ABA55191684BBE18B3CB5DAEA072FC564"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCombatValidation.h",
+      "sha256": "1566E56D581B03A831F9DC7D0FD16AB8B332E5813B146AA90729138010F914DA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCutawayValidation.cpp",
+      "sha256": "CFE0EEF040161D37D0043E61F4C0EE3D26FF5CC5ADD3668545861D7F7ABC0D1C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeCutawayValidation.h",
+      "sha256": "9DEC6C44B0585E3216DA69F62AD741B210A31313D0F8E8910A9EA2E1AE578425"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeEquipmentUiValidation.cpp",
+      "sha256": "FB5F1251FD4C672E1E5DC367B3C5E8CCE354948CDE90FBAEF5C64EC841C3346D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeEquipmentUiValidation.h",
+      "sha256": "F0398C9DF1C731F98FFF50700A4B4BC1D3515E13402DF8663DD2E49CB2FEF227"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFirearmValidation.cpp",
+      "sha256": "161B6D325176EE3596E6A0405C5DF5E5454C227E249793C13A8594BA70CBB087"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFirearmValidation.h",
+      "sha256": "FF32137C08521716DD8CD62A067335E56651C9B27CE00447D6CFEE51CE363EB4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFoliageValidation.cpp",
+      "sha256": "3DC838C721E56E58242F699919C0435905000D082B201B85416AF382AF2861D0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFoliageValidation.h",
+      "sha256": "BED1969A0910D3520322E3446A0DCF0D3959125CD291FB90ECA9BCB6D28FF43E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFrontendValidation.cpp",
+      "sha256": "657481C49D1C3985C366E2C7AF0ADC07BC73F24D753E9567C0D14D46D4F2FB4A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeFrontendValidation.h",
+      "sha256": "135E4A0132701E11E406E7583E272292787F57DB8E2C5B9870CDFC4A9E4160F1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeGunPoseValidation.cpp",
+      "sha256": "56EC6F91930232BF21FFE42340FA5401B59956D1C21395485312EDD5172BC961"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeGunPoseValidation.h",
+      "sha256": "43A9B44778C4B2DC02B44327F41498329AEBF195E7D758EDC8FAF209AF812211"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeHandActionClockValidation.cpp",
+      "sha256": "68B92B3E76F20A8CBA6F2EEAA943C3ABC95798E2B79AEA3E6599C8989764D1A0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeHandActionClockValidation.h",
+      "sha256": "0B0C03DA8F06EE26381EAAB19E2C8232B7A340DFE2BE68350C19676292695021"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeLivingSurfaceValidation.cpp",
+      "sha256": "4DE3C5DA214664D68EB04C7E2316B3A8227F550E8FADF56A5D052419F78351F5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeLivingSurfaceValidation.h",
+      "sha256": "5BAF85BBDA7FB8A4487CA992079EA7FD83CE23AF16D38B2234550B2A64707B96"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeLocomotionValidation.cpp",
+      "sha256": "4FB48C74254EC621D12AF1E9973CEA9CC7C20BA5DBB70E8BD364108C57A22932"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeLocomotionValidation.h",
+      "sha256": "F5A74073D81A4D3CFBD022A411E06E65B7362803330CE7C2A27AA4541041F542"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeOutdoorSeasonalValidation.cpp",
+      "sha256": "B02AE40BB78DC7E49F1EE155146D280EF70845E5198D929E04AA899CD4802AE0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeOutdoorSeasonalValidation.h",
+      "sha256": "4A800E765EFC38C3203C11CEF846251E3C4556809DFBBA4C2F04E45125CC9AA6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeOutdoorValidation.cpp",
+      "sha256": "A51D4A8F107A1ED116E12C583CCA9C44A582CB8DED4A4FC5408019FD2B8F0C6E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeOutdoorValidation.h",
+      "sha256": "31991A7932E35D57E62FF20313C6F63A099D540846BA3181C03F10831CCF9D5C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerActionValidation.cpp",
+      "sha256": "9752EB14DF4019A9A5EA387F5448A3E6CD1AF410B42BF21CFD94440BE7FA8A96"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerActionValidation.h",
+      "sha256": "ECE3541D31C9F8731227E654C342C60A656B67BC061A694B0A7A91645CC71B4A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerBlendValidation.cpp",
+      "sha256": "6ED64472F5D89B803247DE7CC8EBA3AEA41C761FB2C52365069622A51463E8B6"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerBlendValidation.h",
+      "sha256": "8CA11F43C07507637E25D5789601F6553CEFA824A76B00C6E18A191550F00F2F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerCameraValidation.cpp",
+      "sha256": "9A029AB824FFF7C72878EEC15A70074CF07A9DF2398C1E45018CB6A3D091D574"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerCameraValidation.h",
+      "sha256": "287D57408D0AA21166B71534D4DABE982FF027ACEB3A0B62D24E5EAA59DA182C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerGameplayValidation.cpp",
+      "sha256": "0F7501385DFCBE6B587935C61D7B37140D9AA6E9C2DCD333DB0545316C940458"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerGameplayValidation.h",
+      "sha256": "DA0E708CA91682C9BA33F1C47EA39460BE32E7F9B113ACA7ECFE8B6FC0883D25"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerPostureValidation.cpp",
+      "sha256": "F026166637F9765D06FF8041136DD2C971F22730FDE7DC5992D29C4E33166FFE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerPostureValidation.h",
+      "sha256": "C121D8B182779F96966606B72F6044983EB3899E02C8CC081FD6CDA7ABD9AADF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerValidation.cpp",
+      "sha256": "EE5FE48605274248C1FD9913D3B922D9D4910F88B380DB4CF50F029A22078E67"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativePlayerValidation.h",
+      "sha256": "C01692FE90A84A4DD10BE161139D2B6B72B574F1B1349677BA35FB5A26662223"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionBodyCacheValidation.cpp",
+      "sha256": "B460EF756B6841068CC64F7A3854449EC2B85677257410742C0CDF084BD1BC38"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionBodyCacheValidation.h",
+      "sha256": "1220570D5DCBA7A735B3737339FF2324CB72FA3CFD1E1C855FA09F6E2F2E4EC7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionBodyValidation.cpp",
+      "sha256": "E11B4CD7DC81975F9DA96B986B3BB2B486BD5B848EE5A486D10E25EF5D9AE2CA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionBodyValidation.h",
+      "sha256": "CE2D829F8947D0F9415B66770C545321F33420F97112EBEFBE07141AD01D5157"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionHeldValidation.cpp",
+      "sha256": "EE2EEB8E9F1FB7B75669CA1B097DD78063239CDC2B671622CCBD6B56A5541ED8"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionHeldValidation.h",
+      "sha256": "FC449C9E8F9E87D56A02042B4F643DB063553576CF7793B93AE3C70A8FC9FD2A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionLeaseValidation.cpp",
+      "sha256": "994B492BD895E670C2C655DCD7C82A55CAAA40C83A05EA2B457A2899566ACB12"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionLeaseValidation.h",
+      "sha256": "C7E5AEDAC8546824553A1CF3C8B6822C4F7241A72C1316444AF4B45EA72A9E1D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionProceduralValidation.cpp",
+      "sha256": "2BD812D28753C0C6D1DAA21A9373E159BF08754884E7D92DC6EE05FA776FE48C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionProceduralValidation.h",
+      "sha256": "4C62EB1EED6E672F46162CD6A8893FA4FD9DE26EF861B5AB88B7EA8CDBD67C2C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionSkinValidation.cpp",
+      "sha256": "6FEBC7B8B9A3D8A01FD8473BA9C61A815CAA2A4E339934BAB984EE2497E741E1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionSkinValidation.h",
+      "sha256": "1C82014DF72D4433157F6EFD9E67A72BF34F4CEE48901EA54F18604F7744745D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionSkinVisualCapture.cpp",
+      "sha256": "347BDAEE40076124906489CCC3AA657AEFFA5A1489B7BD6CDD72A60AE70DEEBF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionSkinVisualCapture.h",
+      "sha256": "C6EA2C585BEF21E8D9795E8E4180BA45B5A88EE5BD271ADD5E36DEE359A74B3F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionTimelineValidation.cpp",
+      "sha256": "EE4E8206D99C4069CFA07C2E204948EDB8DDDF70E2B1DBE71788912B1BCF51CB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeProfessionTimelineValidation.h",
+      "sha256": "B1C7A9122EEE48C01DD842C194917C535EA618B4C44F8B540AE1914DAACB2149"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeRecoveryValidation.cpp",
+      "sha256": "B64A06E75CCD1C21E473056400FBEF4A2FC217978D5104D6A77BAAFB88C926A3"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeRecoveryValidation.h",
+      "sha256": "BD9EBE8A79362916E77A33D90ABA505EC5CEEAED007C726E44C1D54D6C205C0F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeSourceDuplicateIndexNormalization.inl",
+      "sha256": "A06C919FA580074D3FB52BA8EDA73431F8C34AEAEDCD5CB94D18F243CCC3A24A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeSourceSceneProbe.cpp",
+      "sha256": "5E24D4AE1A5A479049D318A4BE7BA61BCFB94DB61D3F149F5C72BC7C9AF27E46"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeSourceSceneProbe.h",
+      "sha256": "3F38660D37CC57F9125657999DA2D49CBECBCA6DC6D020993AA516C637C5E0AD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeTerrainValidation.cpp",
+      "sha256": "9DC28D5BF8266986D271457ED18E3ACCFF53D3D5A811826841652D8383B5C5DF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeTerrainValidation.h",
+      "sha256": "7D3ABF36CD627A0C78563CDB550385BBA5E57A3737A09A5144284C4840569750"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeVehicleCombatValidation.cpp",
+      "sha256": "10F1366165022A2C27046893584FC7D0FFBC17E63B8912FAB7C57126068D1863"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeVehicleCombatValidation.h",
+      "sha256": "0F0023750A57346D697A589BFA2A359E2FB4360BFCBF65AB2D273C35D89D3ABE"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeVehicleVisualValidation.cpp",
+      "sha256": "1CA92B373A0C6514C84871C3024F0428FB359184070A9244C2F3E2A36B19BED0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeVehicleVisualValidation.h",
+      "sha256": "45EE4FDE3C6017784FC4E9B262B1843F5B8DD7801A46BD40F1B197EDBAFC823B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeWorldDetailsValidation.cpp",
+      "sha256": "09DB4303646EF5920721873D5E97AA46C13ACADEBB975611621B330F14ECCB02"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\NativeWorldDetailsValidation.h",
+      "sha256": "FD64C05332B3F28C92EDF251AD54922CE94742FFB525591BFCF3369967242A8B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberCharacterCreation.cpp",
+      "sha256": "176FA52FD55D03661B5AA803B3E836C97CA370C20A5A88CB627956CF3AE32596"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberCharacterCreation.h",
+      "sha256": "A790A7C7F159555222000E6D2125CF2126410B33D90E01508E3CF9DE992E4DDC"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberContainerOwnershipValidation.h",
+      "sha256": "68304282ECCC13530999682002AB63585FA17C97EB20D4394F918E3AFEFD68F4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorGameplayActions.cpp",
+      "sha256": "64D907145858427446D8C3D281489AB99A31A8769D854B97FF92C1831CC5261F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorGameplayActions.h",
+      "sha256": "184AEC9B496AC78B07B2E0D26672DC8BD959B972921BE50B4F4703CDB1D6B7FD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorGameplayBootstrap.cpp",
+      "sha256": "B225451A014FE29B00650A50C5A5D04BED1C549A8938633EE11C74FCBCC85825"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorGameplayBootstrap.h",
+      "sha256": "69B339C1C7CEBA6C57F72DED82462A68D293746639C3BD80659DCFA18F5D4F87"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorItemOwnerBridge.cpp",
+      "sha256": "CA2C80E8C5BE9089F960C1AA4B9A1792B48E72748631250A247B81C9212AA01C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberFloorItemOwnerBridge.h",
+      "sha256": "864CC7715CED159653C1D2243771DD90F1F6D93964E1C43F6244CD91A9EA7F84"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberGameplayInventoryGateway.cpp",
+      "sha256": "9871057828C348DF11C91848C500C571BBD1EF14DD56DBA03223A6177EB63D56"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberGameplayInventoryGateway.h",
+      "sha256": "EA12020B442F069362E4957DF11891A9A091DE325C678533DD389886E544DA01"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberItemInstanceOwners.cpp",
+      "sha256": "AE01809184C25F60A2531F7498800D915D7FA255610A4DCAA5E324FF8AFD584F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberItemInstanceOwners.h",
+      "sha256": "0A0B9078C463418F02944D460176D4218961CD8CF35BEC33C90778630CA3372E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberItemSaveCompatibility.h",
+      "sha256": "5DF23383A38752B1DC3EEEBA4569987C668036AE1CE714E4F4DE95C6F5C84533"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberMedical.cpp",
+      "sha256": "0F515C27E7F1E72774FAC258456AC9526042504D78EF62A98BD95A06C6333A2C"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberMedical.h",
+      "sha256": "F30817FB06D3745AEEA0603CB3CB195BBF5C08EA242A14BACACC8B54B4F78EF7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberSimulation.cpp",
+      "sha256": "19528C0D85DD9B93A48CB691EC4A83C5D82BCA0812FD41C9466535F3D030BFE9"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberSimulation.h",
+      "sha256": "C7B2743543EC4E36BB90AA49B96DBF046BADEC8ECE596CD130905EE760D30088"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberSleepRules.h",
+      "sha256": "1C7FF2215A2A8C7AD6FE85A24CD1A2FEFCDD1598524C88E96933331F39558388"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberSourceSettlement.cpp",
+      "sha256": "310597D1A5990DDD8F4A1E6ED9DC3BE97D4BB876260BFD237986DDBE950EEB38"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberSourceSettlement.h",
+      "sha256": "143E7D01C1C576A592B2840DF6B22CE3F3C42A5F886B317C036D890F25CECC87"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberTrafficSignals.cpp",
+      "sha256": "D8EBC8A50E89C6AF7F0DC815BF69309033B5F376E1F61978C7482266727DD31A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberTrafficSignals.h",
+      "sha256": "B4D400472B07FDC5D53AF9D4C0DE3A44E821F81733EE48274C1D748B76222F76"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberVehicles.cpp",
+      "sha256": "3E7CA60204947D3CFFC3E5253C209606D4780A706E252FF17A98C2699CF40CA4"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberVehicles.h",
+      "sha256": "711EB737DBED7513A6FB8B9CD4F304EC93045BCB0F15CE4FAA938E2AF9586D25"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberVehicleZombieContacts.cpp",
+      "sha256": "F375D6BC197D0A2422DD09FE60E9DE9961827AFC1BEF56C361363A355641E8AD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberVehicleZombieContacts.h",
+      "sha256": "2EC40547F9205A46B5DAD57703114D1114C8A94FC11E5E60E549D08C55FF3A40"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberWorldSystems.cpp",
+      "sha256": "5D368F1E622C69B1099D1600A4D3DFF07670E25988C9C5BF81506A57D35AB8CB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\EmberWorldSystems.h",
+      "sha256": "76D782932A446CCD628FAF3DC2818172AC12F4200F6678AF8C58AE9C94CD71FD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberArchitectureRecipe.cpp",
+      "sha256": "9A92A1CE4BED1A386E0B0E90B28C98CE51D40C0B6FFB39CBE8882B079AF24998"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberArchitectureRecipe.h",
+      "sha256": "CF28BA8DD5CCCE2695A8A54BFD6D18A7E26A57A682AFA2827F8FD0E9561E2B0B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberBuildingGenerator.inl",
+      "sha256": "926AAE6C76001F255B682CA3BEDF771B24DA2FBD109BD5FE8A994A9BBFCB6C63"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberChinaUrbanLayout.cpp",
+      "sha256": "5D7FCBDF3E0918A14E0AE2E48B00A5574CC84F7ADBAFB1B0D33661FDD107BC2B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberChinaUrbanLayout.h",
+      "sha256": "1B1B99631508F29468A9E53B36AF5178B0EFA64C09DA33016B6E1C614F1C6422"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberChunkWorldState.cpp",
+      "sha256": "35DAF46470563B3F5980494293CC986755075E825D0BF60954248BA846B9CD70"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberChunkWorldState.h",
+      "sha256": "40838AC235988A2FCB6E2BE809C46F7026C88FF8F4FA3EB6C4C313FE788870CD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFacilityRecipe.cpp",
+      "sha256": "5CB21B89BF42D3F599B96ADEB75C6B7018360C8B1D222B747ADD139934AD0828"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFacilityRecipe.h",
+      "sha256": "2C6A35727478140BB8B6302B7A276F12B5661EC1338E26D7BCCBBA60526AE366"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFixedBuilding.cpp",
+      "sha256": "A2DEC5214F51F5025C09D578AD087AB0FA00A006B7E1A4A69B24B62AF83B2EFA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFixedBuilding.h",
+      "sha256": "F4A270C4E7C057F679F97EC2D69ABF7F195EA15A85C358273DCE8FEDEE7F97BB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFloorItemTransactions.cpp",
+      "sha256": "828866084718969675887235FC55FF6DDA3DF15EE051A89FF49A64370120E248"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFloorItemTransactions.h",
+      "sha256": "4AC7261D272C764DA115EBC1EF58D2BCEC7AF16F2053DFE79FB563FEFF2C4DF7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberFloorRenderReconcileStamp.h",
+      "sha256": "07223F53EC93360498E7C177C69048B8838CD47455353A6C774EFB1E264F5D5D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberInitialWorldQuery.cpp",
+      "sha256": "833B9415792F1A69D17FDB721A479870B8526B73B93F4A200FDABCF7C362698D"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberInitialWorldQuery.h",
+      "sha256": "A7521EBC791C5D2BC9A141EFD782BC21E5C710ACED2B2CC8231192AA76984348"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberPortalRecipe.cpp",
+      "sha256": "1588AEA4E9A30FDEDD435A5241E671A031F64E2DAFD551885DB161FB39BDA2E0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberPortalRecipe.h",
+      "sha256": "0113AE7759EAAC7735D25ACD13764D0A0A4F54F14A9E570E65DD1B571C5F8352"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberPreparedWorldState.h",
+      "sha256": "D7DBE38D3EBBD73A493E5ABD62D33D8D6FC424DC9202D53600451CD3C3086475"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberProductionPickAssembly.h",
+      "sha256": "7F808AEC6B49493C47CEDE9D07716DE6A9E3CB48C89EEF51F171863DEA409676"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberProductionPickMesh.h",
+      "sha256": "45F42BAB2CCF3EA7078D2FC0432B99DC9CFE31C16B79F627933AD065AF9FEE86"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberRoofModuleRecipe.cpp",
+      "sha256": "A5819DF43B8509C87DD5EF54468B6D9EC16945A6AA020FF562A89F2333ECFC7E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberRoofModuleRecipe.h",
+      "sha256": "485B13061DA75571137DA1B862FEBD623362E1055B5AA92FA257A372BF79217A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceBarrierState.cpp",
+      "sha256": "1CEFD97E69178563C81CF54887E023A2E9730322938E310C7DE63F782D10A631"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceBarrierState.h",
+      "sha256": "75161EADB110FAC375FF4003FF880981A9A1C8C6396A9246B57CB9F2C5417766"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceCircleFree.cpp",
+      "sha256": "D1A8D462D907CEB0539C3F05105CD820C4CF9C6557A920380CAFDB0EBDF7F1E2"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceCircleFree.h",
+      "sha256": "7B75047328B740D0F7DB247E159785F8CDA0EA9509230CDFC05F6D3FBA738D14"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceElevatorMotor.h",
+      "sha256": "CC2809045CD1D366716BC36A8620D1C96AE2F97FC9B48673EC65491C18AD658A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceElevatorPassenger.h",
+      "sha256": "FF4D35733524D95F15E802BC252FC7CE1E7C5B29CD9A0387AEC6969775A11FEB"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceElevatorTopology.h",
+      "sha256": "175607BE29A817FDAA3223CB12C4071A85C0E66CBA4B81AE892B418FB59687A7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceElevatorVisualRecipe.h",
+      "sha256": "38826C34F31AEF882C3E68D4A3775FB10B1BA88B1B8C48C8965FAFD0DB203C7F"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceFloorTargetSelection.h",
+      "sha256": "BB732735B4AA772A0537E52CC068C974FA61AEF6A075BEB53A99F58274C5D9BF"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceGlobalInteractionRay.cpp",
+      "sha256": "4B87712B3AD35956BB5CE9EA9A153857CE07520668CFF7B5BFFE4BB784895443"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceGlobalInteractionRay.h",
+      "sha256": "3AD3DCB08C6439E183CB91CA38BC4061A73E4A85104CA65D19C22B99DD08A507"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceInteractionProfiles.cpp",
+      "sha256": "26F3886EEE7EB4BC7A0F6704EB6FF86EBC03D8CF4DC845EC865FE1EC7937149A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceInteractionProfiles.h",
+      "sha256": "EE8F2C0E54778B40FD62111865254FE81DEDF6395ED07C758BA426705AFA9C4E"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceInteractionQueries.h",
+      "sha256": "1836151DEB3646B1555D1DF8100F4538E36146203E211BDEEAC3E5D4E7DC3E29"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourcePlacement.cpp",
+      "sha256": "61A65C719F49F9C0A5E209228248FB1F970AA0B7CA74FA5EDCBBDAA77A8DDA12"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourcePlacement.h",
+      "sha256": "DC88EFCA06DFBD5D3D1A0C8BDC82ECE13572DA42F4588DE54CDED7E9134FEED0"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourcePortalCollision.h",
+      "sha256": "8B3C92B0D00D95164861ECED9C3B15202DB3A47ED5F59577B0DAF5ABD36CFC0B"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceTreeFloorPlacement.cpp",
+      "sha256": "FF69F89CBBB4154C572551B9556E32AFC217E36001B8D35C90DC5B63C3E3EA21"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceTreeFloorPlacement.h",
+      "sha256": "F5FDF66608230CA501795AE314E1B788D20CF594EC4EBA36648C4D1A7C570F91"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberSourceTriangleDistance.h",
+      "sha256": "FB8E987D70F70A248588965885071CEB17E7D9518AFAFB7996BD99EB94BF85E1"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberTerrainGenerator.cpp",
+      "sha256": "D64468DB747665E9E705F9A344A56D546F184F184CCA6429A7AB393B284A3911"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberTerrainGenerator.h",
+      "sha256": "DA85926EB0719CECB908BE0ACBCE37EF0130CC08AADC15A5DECEC2029449E6C7"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberWallRecipe.cpp",
+      "sha256": "B8DDDF9B13E270D1226BFFFE40F21C186B74EC13186A5932E57ED52C6AE684A5"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberWallRecipe.h",
+      "sha256": "85682DC51C637FFAFF61418232CB99A1AE2FBD2B7A1013FE8AF7908E9499339A"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\EmberWorldStateDomains.h",
+      "sha256": "7455FA9AF63871B286D43C9D2FD5718C29074DA074419426A566287BD3013178"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\Json.h",
+      "sha256": "78616DCF1E5E538118B9E3302661873AA15597812D963F542593F8D6350C8C30"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\SourceFloorGeometry.h",
+      "sha256": "B118FAC98F010F1F6E87D43562A876DD0022F128901FB700E9368BD5615BC222"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Source\\EmberTown\\Simulation\\WorldGeneration\\SourceGeometry.h",
+      "sha256": "DBA4F30C03A0FA312ECB0F46D0F60D79432B1E7D72997CBDFB0FDDC8CBFF18DD"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Config\\DefaultEngine.ini",
+      "sha256": "548B4ECB6F3F51E22ADCA425286FE802973E73FB227A33C2047F90884DA1FFFA"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Config\\DefaultGame.ini",
+      "sha256": "7A1ECE84C5BCCC8D11F372A6A1152A7DA47E84C1C3E326FEC2D1A32569F6B234"
+    },
+    {
+      "path": "D:\\虚幻移植版\\Config\\DefaultInput.ini",
+      "sha256": "9928DB767CBAE6D040FBC090C9E464DAFAAE55CDFD3C10D288CE0C9857E65449"
+    }
+  ],
+  "runtime_validation_passed": true,
+  "validation": {
+    "validated_utc": "2026-11-01T05:07:30.4705399Z",
+    "actual_controls": 54,
+    "iot_devices": 33181,
+    "visitor_gate_receipt": true,
+    "floor_sensors": 27,
+    "web_meshes": 45,
+    "web_instances": 293162,
+    "gpu_captures": [
+      "data_center.png",
+      "data_center_interior.png",
+      "room_sensors.png",
+      "device_data_flows.png"
+    ],
+    "node_tests_passed": 84,
+    "deepseek_natural_language_verified": true,
+    "mac_status": "Scripts syntax checked; native Mac build not executed",
+    "explorer_deepseek_verified": true,
+    "first_run_configuration_verified": true
+  },
+  "hub_files": [
+    {
+      "file": "Hub\\direct-deepseek.key",
+      "sha256": "3AB0648DCA54A8031ABA4E640A9749DDA01A910FD5F353960513ADC3D771F53E"
+    },
+    {
+      "file": "Hub\\direct-model.json",
+      "sha256": "F636BB2BABFB63B72085FD1A57CD7F96858718F8D33FF4665B37E2A17D95F8EF"
+    },
+    {
+      "file": "Hub\\package.json",
+      "sha256": "D9D0A319FFDE9ADE8A8F60E6BB9B3241645F41159D15FA3FDDA56523473447C2"
+    },
+    {
+      "file": "Hub\\backend\\assistant-model.mjs",
+      "sha256": "91C6688E9EE4D378EC57FD8492D431DC0BCA0BB7E5F7D49D2EF8CC1A2A231773"
+    },
+    {
+      "file": "Hub\\backend\\campus-assistant.mjs",
+      "sha256": "60BBEF2AFD38AC5BEB820C883DB2ED76129CB83960D503E027724814EE177658"
+    },
+    {
+      "file": "Hub\\backend\\campus-intents.mjs",
+      "sha256": "855509A42F0D6F098A54BA112013A68954785BDA66A6DD343410D9E8B1B70967"
+    },
+    {
+      "file": "Hub\\backend\\campus-knowledge.mjs",
+      "sha256": "C1C4CCCEE5A1C4B234E62695AD8351420CA1968AE379A4456CA6296E9CF1323D"
+    },
+    {
+      "file": "Hub\\backend\\campus-operations.mjs",
+      "sha256": "E1D3FA125CFACAB12FF95F52CA788818646787083915CC0C883C0DF58A0601C3"
+    },
+    {
+      "file": "Hub\\backend\\hub.mjs",
+      "sha256": "CB02525DAD2AED64C31F7B9DED9B90856739B6E8BE5641A63C7892B1A68F0E75"
+    },
+    {
+      "file": "Hub\\backend\\llm.mjs",
+      "sha256": "45A70676CB62D8C74A5BF45BA8D54000968EBB3ED2C01A4EE8832C47F2DA98BA"
+    },
+    {
+      "file": "Hub\\backend\\model-config.mjs",
+      "sha256": "7A94577C6A1909D52735777DC771C26EAED327EEBE8A64EF54BA57626E0CFB2C"
+    },
+    {
+      "file": "Hub\\backend\\model-setup.mjs",
+      "sha256": "00732DA6F623D783540E0777F3CB4414CA61EACE52DE8BD99D648E589B259DEB"
+    },
+    {
+      "file": "Hub\\backend\\native.mjs",
+      "sha256": "75D42D372886A669C4E1A0BAFB298F9F9E8ED44DAE64F9FD4F00D2B6CE6A187E"
+    },
+    {
+      "file": "Hub\\backend\\routing.mjs",
+      "sha256": "972FF8C537CB35537ACBA1E94C286C69A9E8B923E5299F78977AB00A1C2832D4"
+    },
+    {
+      "file": "Hub\\backend\\schema.sql",
+      "sha256": "2CB375FE1803984C7D3C6AABAF80A4F4D6AE4CF96DEA24E4E9CD226C75FB39B0"
+    },
+    {
+      "file": "Hub\\backend\\seed.mjs",
+      "sha256": "9C67062384BBB0CA9681379C3C94771ACFCC527C5CA94F94BE1EE000771C3CFD"
+    },
+    {
+      "file": "Hub\\backend\\server.mjs",
+      "sha256": "F425A835B8C35ADA8474995CF5A262959462BFF884D1396E1813955E6478FAF8"
+    },
+    {
+      "file": "Hub\\backend\\service.mjs",
+      "sha256": "BB69107628BA488650CA97CCCE7EF6FB45933FFF1FAD54A106AF5AD6AF471342"
+    },
+    {
+      "file": "Hub\\backend\\simulator.mjs",
+      "sha256": "48AEE8DFDC9CF61E1A7A1F44C42F41E81CE9352CE95FE93AFF5C4A52169C0E49"
+    },
+    {
+      "file": "Hub\\backend\\store.mjs",
+      "sha256": "9351CE7F4B9EB16FE0FE7FE2365A7123201FA9496C908A6177B5C258B60D9EF7"
+    },
+    {
+      "file": "Hub\\dist\\campus-devices.json",
+      "sha256": "05EE7436C0C1A8DF8BA695806C7770026AB11AF2382D3D99FCC44606CDD90079"
+    },
+    {
+      "file": "Hub\\dist\\campus-layout.json",
+      "sha256": "E516CDCC07BB377089B92B4C649E21BB6BC12339C7298DE0577DA93366127BCA"
+    },
+    {
+      "file": "Hub\\dist\\campus-scene.json",
+      "sha256": "CA6992F0FC56B1FF8571A3B0F2DF9E96E8D2B8DF4CCEB2AF5CC58AEC447D60DD"
+    },
+    {
+      "file": "Hub\\dist\\campus-scene.json.gz",
+      "sha256": "809C11961E6996ED01A71657BF668D9CB93E0A26B65B51B4947F8656CC9E63BB"
+    },
+    {
+      "file": "Hub\\dist\\index.html",
+      "sha256": "71DB0047E65940178EDE8F51A6CE4DA659109072C3B41B62813C59D00B811DE5"
+    },
+    {
+      "file": "Hub\\dist\\progress.css",
+      "sha256": "8014AED141698791EA763820BE16C77F48944B1E3B89C80C838D28A43415E504"
+    },
+    {
+      "file": "Hub\\dist\\progress.html",
+      "sha256": "66587F57FA855AAAB67C4C58DD67975E350F9BEC417A92E1BB697B55C36D7E68"
+    },
+    {
+      "file": "Hub\\dist\\progress.js",
+      "sha256": "5870D6B3A71185E3B6AB3A9EAEB2223A2B5E486E86A3A8FA862EADF1C9DA9E25"
+    },
+    {
+      "file": "Hub\\dist\\progress.json",
+      "sha256": "554B2354BB1E92D9135ABA4313CCCFC3B34C1C9B3090C9FC6CD322C9F313DC86"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-Bfza7Dux.js",
+      "sha256": "3796DC1C546B0579140A135362744C603E15C21575EE78D3A36C907597269E25"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-BZMdxak7.js",
+      "sha256": "BD6D1CC876130F88E1861B99A2B9E168820D9E6083CDD56D5E55FD3DB649F50A"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-ChB1pKOF.js",
+      "sha256": "E0FB0BC4160749776B2AFF3B85002743F0689645E7BADBEB23D856346AF46330"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-CNduMFxb.css",
+      "sha256": "34D2A285FB4F3E5CADAC2F800CD60C45C50EBBBF8CD751C77FE3123EFE47B559"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-CSDR_IKZ.js",
+      "sha256": "D046FAB4E7F63B6EA2CE540D88FE69EA0A3BE7819B7F34A7567C55A2F5061F39"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-Cvb4jzHj.js",
+      "sha256": "53D993D48664273A37084137D9C12D4EAB90B6D3E4BF37ABBBB66AFA0933E242"
+    },
+    {
+      "file": "Hub\\dist\\assets\\index-RCriWXRy.css",
+      "sha256": "183C76175F2925F5CA56CD709AB378F6883074EB1AD2ADD0771035828674DB61"
+    },
+    {
+      "file": "Hub\\dist\\assets\\three-CIhX6zqq.js",
+      "sha256": "6D81452898A0297A3853CFB0A084F27EDDC00D4498A2B6D95B379380882E4DB4"
+    },
+    {
+      "file": "Hub\\dist\\assets\\vendor-PY5S7aRQ.js",
+      "sha256": "FB2F60DA2E55D7767D0A176FF258EC52AB1B05F22638992F8A51B62369636B80"
+    },
+    {
+      "file": "Hub\\frontend\\public\\campus-devices.json",
+      "sha256": "05EE7436C0C1A8DF8BA695806C7770026AB11AF2382D3D99FCC44606CDD90079"
+    },
+    {
+      "file": "Hub\\frontend\\public\\campus-layout.json",
+      "sha256": "E516CDCC07BB377089B92B4C649E21BB6BC12339C7298DE0577DA93366127BCA"
+    }
+  ]
+}

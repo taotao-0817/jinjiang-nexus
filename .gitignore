@@ -1,0 +1,30 @@
+# 凭据：绝不入库
+Hub/direct-deepseek.key
+*.key
+*.pem
+.env
+.env.*
+
+# 原生发布包与运行时（体积过大，按需另行提供）
+Windows/
+Runtime/
+Prerequisites/
+*.exe
+*.pak
+*.ucas
+*.utoc
+
+# 本机数据与日志
+*.sqlite
+*.sqlite-*
+*.log
+!QA/*.log
+*.tmp
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/

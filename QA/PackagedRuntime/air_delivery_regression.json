@@ -1,0 +1,8 @@
+{
+	"passed": true,
+	"injected_obstacle_stopped_drone": true,
+	"delivered_persistent_parcels": 6,
+	"max_step_cm": 65.000000968577282,
+	"obstacle_stops": 1,
+	"reason": ""
+}

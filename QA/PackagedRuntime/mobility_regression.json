@@ -1,0 +1,8 @@
+{
+	"passed": true,
+	"vehicles_moved": 24,
+	"vehicles_supported": 24,
+	"max_step_cm": 27.500000409811037,
+	"full_hull_route_hits": 0,
+	"first_hull_hit": ""
+}

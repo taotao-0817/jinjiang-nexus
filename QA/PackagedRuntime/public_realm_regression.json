@@ -1,0 +1,8 @@
+{
+	"passed": true,
+	"entry_route_hits": 0,
+	"visual_furniture_route_hits": 0,
+	"supported_destinations": 6,
+	"public_space_controllers": 4,
+	"reason": ""
+}

@@ -1,0 +1,30 @@
+{
+  "name": "bailuwan-command-center",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:frontend": "vite --host 127.0.0.1 --configLoader native",
+    "dev:backend": "node --env-file-if-exists=.env backend/server.mjs",
+    "simulator": "node --env-file-if-exists=.env backend/simulator.mjs",
+    "build": "vite build --configLoader native",
+    "start": "node --env-file-if-exists=.env scripts/start.mjs",
+    "db:init": "node --env-file-if-exists=.env backend/server.mjs --init",
+    "test": "node --test tests/*.test.mjs",
+    "demo:flows": "node --env-file-if-exists=.env scripts/demo-flows.mjs",
+    "demo:hub": "node --env-file-if-exists=.env scripts/demo-hub.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.180.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}

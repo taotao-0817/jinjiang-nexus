@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "tested_at": "2026-11-01T12:12:31.1054402+08:00",
+  "launch_source": "explorer.exe",
+  "launcher_pid": 4868,
+  "parent_pid": 16960,
+  "launcher_path": "D:\\虚幻移植版\\Builds\\Releases\\JinjiangNexus-Windows\\JinjiangNexus.exe",
+  "before": {
+    "mode": "model",
+    "configured": true,
+    "model": "deepseek-flash",
+    "status": "not_verified",
+    "verified": false
+  },
+  "after": {
+    "mode": "model",
+    "configured": true,
+    "model": "deepseek-flash",
+    "status": "ready",
+    "verified": true
+  },
+  "native_connected": true,
+  "goal": "只查询：当前园区有多少栋办公楼？请简短回答，不操作任何设备。",
+  "run_status": "completed",
+  "answer": "当前园区共有 20 栋办公楼，编号从 A01 到 A20。本次仅查询，未操作任何设备。",
+  "command_count": 0,
+  "conversation_id": "3d6e4bbb-9126-453a-aef5-e249402e2b95",
+  "config_location": "USERPROFILE/.jinjiang-nexus/model.json",
+  "key_in_release": false,
+  "config_module_sha256": "7A94577C6A1909D52735777DC771C26EAED327EEBE8A64EF54BA57626E0CFB2C"
+}
